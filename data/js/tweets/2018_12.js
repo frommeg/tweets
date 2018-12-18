@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 23:53:03 +0000 2018",
+		"id": 1073002825045598200,
+		"id_str": "1073002825045598208",
+		"full_text": "[EBS 스페이스 공감 공연 안내]\n\n&lt;EBS 스페이스 공감&gt;의 2019년 1월 둘째 주 공연 소식입니다 :)\n\n공연안내 ▶ 허클베리 핀 ‘바다를 품고 돌아오다’ X 프롬 ‘그날의 별이 뜰 때’\n공연일정 ▶ 1월 10일 (목) 저녁 8시\n공연신청 ▶ https://t.co/m19YLKIqZ5\n\n#스페이스공감 #허클베리핀 #프롬 https://t.co/XrrDgmKHQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스페이스공감",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "허클베리핀",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						186,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m19YLKIqZ5",
+					"expanded_url": "http://www.ebs.co.kr/space/program/4601",
+					"display_url": "ebs.co.kr/space/program/…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073002465446965200,
+					"id_str": "1073002465446965249",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/DuQSDqwVsAE1_tO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuQSDqwVsAE1_tO.jpg",
+					"url": "https://t.co/XrrDgmKHQz",
+					"display_url": "pic.twitter.com/XrrDgmKHQz",
+					"expanded_url": "https://twitter.com/ebsspace/status/1073002825045598208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073002465446965200,
+					"id_str": "1073002465446965249",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/DuQSDqwVsAE1_tO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuQSDqwVsAE1_tO.jpg",
+					"url": "https://t.co/XrrDgmKHQz",
+					"display_url": "pic.twitter.com/XrrDgmKHQz",
+					"expanded_url": "https://twitter.com/ebsspace/status/1073002825045598208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128619707,
+			"id_str": "128619707",
+			"name": "EBS스페이스 共感",
+			"screen_name": "ebsspace",
+			"location": "경기도 고양시 일산동구 한류월드로 281",
+			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
+			"url": "https://t.co/r6vXpMlaMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6vXpMlaMq",
+							"expanded_url": "http://www.ebsspace.com",
+							"display_url": "ebsspace.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297219,
+			"friends_count": 21229,
+			"listed_count": 857,
+			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6462,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EBS 스페이스 공감 공연 안내]\n\n&lt;EBS 스페이스 공감&gt;의 2019년 1월 둘째 주 공연 소식입니다 :)\n\n공연안내 ▶ 허클베리 핀 ‘바다를 품고 돌아오다’ X 프롬 ‘그날의 별이 뜰 때’\n공연일정 ▶ 1월 10일 (목) 저녁 8시\n공연신청 ▶ https://t.co/m19YLKIqZ5\n\n#스페이스공감 #허클베리핀 #프롬 https://t.co/XrrDgmKHQz"
+	},
+	{
 		"created_at": "Mon Dec 17 03:21:21 +0000 2018",
 		"id": 1074504797586448400,
 		"id_str": "1074504797586448387",
