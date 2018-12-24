@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 24 02:37:23 +0000 2018",
+		"id": 1077030446918262800,
+		"id_str": "1077030446918262785",
+		"full_text": "모두모두 #merrychristmas 💜 https://t.co/RwnahAAdxm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "merrychristmas",
+					"indices": [
+						5,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RwnahAAdxm",
+					"expanded_url": "https://www.facebook.com/fromm12/videos/804695143215283/",
+					"display_url": "facebook.com/fromm12/videos…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 584157489,
+			"id_str": "584157489",
+			"name": "Fromm12",
+			"screen_name": "Frommeg",
+			"location": "서울",
+			"description": "이런거 어렵다고",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 11,
+			"listed_count": 10,
+			"created_at": "Fri May 18 19:08:44 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 233,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000697337830/7dee39035cf12499d251ff59f824b909_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000697337830/7dee39035cf12499d251ff59f824b909_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모두모두 #merrychristmas 💜 https://t.co/RwnahAAdxm"
+	},
+	{
+		"created_at": "Mon Dec 24 02:42:03 +0000 2018",
+		"id": 1077031623160410100,
+		"id_str": "1077031623160410118",
+		"full_text": "【 #프롬인스타그램 】 Video: 모두모두 #merrychristmas 💜 https://t.co/ZXtykBVpEb https://t.co/sepEXm90fr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "merrychristmas",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZXtykBVpEb",
+					"expanded_url": "https://www.instagram.com/p/BrwOdReBejj/",
+					"display_url": "instagram.com/p/BrwOdReBejj/",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1077031622933909500,
+					"id_str": "1077031622933909510",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DvJijgDWkAYcnsy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvJijgDWkAYcnsy.jpg",
+					"url": "https://t.co/sepEXm90fr",
+					"display_url": "pic.twitter.com/sepEXm90fr",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1077031623160410118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077031622933909500,
+					"id_str": "1077031622933909510",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DvJijgDWkAYcnsy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvJijgDWkAYcnsy.jpg",
+					"url": "https://t.co/sepEXm90fr",
+					"display_url": "pic.twitter.com/sepEXm90fr",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1077031623160410118/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 310,
+			"friends_count": 26,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3864,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #프롬인스타그램 】 Video: 모두모두 #merrychristmas 💜 https://t.co/ZXtykBVpEb https://t.co/sepEXm90fr"
+	},
+	{
 		"created_at": "Sat Dec 22 01:22:15 +0000 2018",
 		"id": 1076286764854243300,
 		"id_str": "1076286764854243328",
