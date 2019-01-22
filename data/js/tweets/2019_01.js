@@ -1,6 +1,992 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 12:35:29 +0000 2019",
+		"id": 1087690211662929900,
+		"id_str": "1087690211662929920",
+		"full_text": "【 #Fromm_YouTube 】\n프롬(Fromm) 'MILAN BLUE' LIVE in Midnight Candy LIVE 18.12.08-9\nhttps://t.co/hGfOiE7XRv\n#프롬 #Fromm #이유진 #프롬유튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Fromm_YouTube",
+					"indices": [
+						2,
+						16
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "프롬유튜브",
+					"indices": [
+						121,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hGfOiE7XRv",
+					"expanded_url": "https://youtu.be/fVn2fCbi5Sk",
+					"display_url": "youtu.be/fVn2fCbi5Sk",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 25,
+			"listed_count": 2,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3889,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【 #Fromm_YouTube 】\n프롬(Fromm) 'MILAN BLUE' LIVE in Midnight Candy LIVE 18.12.08-9\nhttps://t.co/hGfOiE7XRv\n#프롬 #Fromm #이유진 #프롬유튜브"
+	},
+	{
+		"created_at": "Tue Jan 22 11:22:47 +0000 2019",
+		"id": 1087671916804993000,
+		"id_str": "1087671916804993024",
+		"full_text": "2018.12.8-9 Midnight Candy Concert\n미드나잇캔디 이피 발매기념 콘서트 라이브'밀란블루'\n채널정비하며 다른 영상콘텐츠도 업로드될 예정이니까 \n혹시 구독해주시렵니까 :-D\n\nhttps://t.co/gE1ixMW2uI https://t.co/gE1ixMW2uI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gE1ixMW2uI",
+					"expanded_url": "https://youtu.be/fVn2fCbi5Sk",
+					"display_url": "youtu.be/fVn2fCbi5Sk",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/gE1ixMW2uI",
+					"expanded_url": "https://youtu.be/fVn2fCbi5Sk",
+					"display_url": "youtu.be/fVn2fCbi5Sk",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 584157489,
+			"id_str": "584157489",
+			"name": "Fromm12",
+			"screen_name": "Frommeg",
+			"location": "서울",
+			"description": "이런거 어렵다고",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 343,
+			"friends_count": 11,
+			"listed_count": 10,
+			"created_at": "Fri May 18 19:08:44 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 241,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000697337830/7dee39035cf12499d251ff59f824b909_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000697337830/7dee39035cf12499d251ff59f824b909_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2018.12.8-9 Midnight Candy Concert\n미드나잇캔디 이피 발매기념 콘서트 라이브'밀란블루'\n채널정비하며 다른 영상콘텐츠도 업로드될 예정이니까 \n혹시 구독해주시렵니까 :-D\n\nhttps://t.co/gE1ixMW2uI https://t.co/gE1ixMW2uI"
+	},
+	{
+		"created_at": "Mon Jan 21 03:04:18 +0000 2019",
+		"id": 1087184080368656400,
+		"id_str": "1087184080368656384",
+		"full_text": "🎊[롤링 24주년 기념 공연] 3차 라인업 공개🎊\n\n1월부터 4월까지 진행되는 &lt;롤링 24주년 기념 공연&gt; 3차 라인업을 오픈합니다. 🎉🎉\n\n3차로 오픈 된 28팀의 15개 공연, 개별 일정은 순차적으로 공개 될 예정입니다.\n\nDesign by @soodotsae\nMusic by @real_moonband\n\n#ROLLINGHALL #롤링홀 https://t.co/eWXFp0Zjj0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						179,
+						191
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						192,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087184020729778200,
+					"id_str": "1087184020729778177",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087184020729778177/pu/img/ZzEu5DsHVdpXEDnr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087184020729778177/pu/img/ZzEu5DsHVdpXEDnr.jpg",
+					"url": "https://t.co/eWXFp0Zjj0",
+					"display_url": "pic.twitter.com/eWXFp0Zjj0",
+					"expanded_url": "https://twitter.com/rollinghall/status/1087184080368656384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087184020729778200,
+					"id_str": "1087184020729778177",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087184020729778177/pu/img/ZzEu5DsHVdpXEDnr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087184020729778177/pu/img/ZzEu5DsHVdpXEDnr.jpg",
+					"url": "https://t.co/eWXFp0Zjj0",
+					"display_url": "pic.twitter.com/eWXFp0Zjj0",
+					"expanded_url": "https://twitter.com/rollinghall/status/1087184080368656384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1087184020729778177/pu/vid/720x720/71dxW1_n-fejakv8.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1087184020729778177/pu/vid/480x480/23Be6fUFDqO8W4E4.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1087184020729778177/pu/pl/tF-NYl6lAIhg_jrf.m3u8?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1087184020729778177/pu/vid/320x320/EWF4c6gRUziBVwjh.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 808,
+			"listed_count": 40,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2208,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068706029062385665/4C_ixNNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068706029062385665/4C_ixNNC_normal.jpg",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎊[롤링 24주년 기념 공연] 3차 라인업 공개🎊\n\n1월부터 4월까지 진행되는 &lt;롤링 24주년 기념 공연&gt; 3차 라인업을 오픈합니다. 🎉🎉\n\n3차로 오픈 된 28팀의 15개 공연, 개별 일정은 순차적으로 공개 될 예정입니다.\n\nDesign by @soodotsae\nMusic by @real_moonband\n\n#ROLLINGHALL #롤링홀 https://t.co/eWXFp0Zjj0"
+	},
+	{
+		"created_at": "Mon Jan 14 03:00:54 +0000 2019",
+		"id": 1084646510434803700,
+		"id_str": "1084646510434803712",
+		"full_text": "📢 오늘 오후 8시 멜론티켓 예매오픈 !\n\n&lt;롤링 24주년 기념 공연 vol.14 프롬 &amp; 백예린&gt;\n\n• 일시 : 2019년 2월 16일 (토) 오후 6시\n• 장소 : 롤링홀\n• 출연 : 프롬, 백예린\n• 예매 : 🍈멜론\n티켓 https://t.co/6NLjzzKryQ\n\n#프롬 #백예린 #롤링24 https://t.co/vp89CM4l7W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "롤링24",
+					"indices": [
+						171,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6NLjzzKryQ",
+					"expanded_url": "http://bitly.kr/r9jze",
+					"display_url": "bitly.kr/r9jze",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084646504394977300,
+					"id_str": "1084646504394977280",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw1wP8FU8AAgL2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw1wP8FU8AAgL2v.jpg",
+					"url": "https://t.co/vp89CM4l7W",
+					"display_url": "pic.twitter.com/vp89CM4l7W",
+					"expanded_url": "https://twitter.com/rollinghall/status/1084646510434803712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084646504394977300,
+					"id_str": "1084646504394977280",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw1wP8FU8AAgL2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw1wP8FU8AAgL2v.jpg",
+					"url": "https://t.co/vp89CM4l7W",
+					"display_url": "pic.twitter.com/vp89CM4l7W",
+					"expanded_url": "https://twitter.com/rollinghall/status/1084646510434803712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 808,
+			"listed_count": 40,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2208,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068706029062385665/4C_ixNNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068706029062385665/4C_ixNNC_normal.jpg",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 오늘 오후 8시 멜론티켓 예매오픈 !\n\n&lt;롤링 24주년 기념 공연 vol.14 프롬 &amp; 백예린&gt;\n\n• 일시 : 2019년 2월 16일 (토) 오후 6시\n• 장소 : 롤링홀\n• 출연 : 프롬, 백예린\n• 예매 : 🍈멜론\n티켓 https://t.co/6NLjzzKryQ\n\n#프롬 #백예린 #롤링24 https://t.co/vp89CM4l7W"
+	},
+	{
+		"created_at": "Mon Jan 14 12:02:10 +0000 2019",
+		"id": 1084782724529811500,
+		"id_str": "1084782724529811456",
+		"full_text": "✊🏼&lt;롤링 24주년 기념 공연&gt; 2차 라인업 전체 일시 OPEN🎇\n-\n2차까지 오픈 된 공연 한 눈에 보고 골라갑시다!\n이 중에 여러분 취향이 하나쯤은 있겠지💁🏻\n-\n예매 : 🍈멜론티켓 https://t.co/8umQBLmvor\n-\nDesign by @soodotsae\nMusic by @bada_leeeee https://t.co/Cur326Vapu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bada_leeeee",
+					"name": "Lee Bada",
+					"id": 1495559846,
+					"id_str": "1495559846",
+					"indices": [
+						166,
+						178
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8umQBLmvor",
+					"expanded_url": "https://bit.ly/2SOGZjP",
+					"display_url": "bit.ly/2SOGZjP",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084782604593782800,
+					"id_str": "1084782604593782785",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1084782604593782785/pu/img/F_itKTG2oIU6gX5v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1084782604593782785/pu/img/F_itKTG2oIU6gX5v.jpg",
+					"url": "https://t.co/Cur326Vapu",
+					"display_url": "pic.twitter.com/Cur326Vapu",
+					"expanded_url": "https://twitter.com/rollinghall/status/1084782724529811456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084782604593782800,
+					"id_str": "1084782604593782785",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1084782604593782785/pu/img/F_itKTG2oIU6gX5v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1084782604593782785/pu/img/F_itKTG2oIU6gX5v.jpg",
+					"url": "https://t.co/Cur326Vapu",
+					"display_url": "pic.twitter.com/Cur326Vapu",
+					"expanded_url": "https://twitter.com/rollinghall/status/1084782724529811456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 45012,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1084782604593782785/pu/vid/960x720/iA05RQtAhqHaeX-B.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1084782604593782785/pu/vid/240x180/uVGFJptt6rfpi9XE.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1084782604593782785/pu/vid/480x360/k27vCiiBVX3hZLyj.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1084782604593782785/pu/pl/m6OpkcmOQna0qA3C.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "https://t.co/AcosOSxu84 https://t.co/S2RaYU1s1v 02-325-6071",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AcosOSxu84",
+							"expanded_url": "http://www.facebook.com/rollinghall1995",
+							"display_url": "facebook.com/rollinghall1995",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/S2RaYU1s1v",
+							"expanded_url": "http://www.instagram.com/rollinghall",
+							"display_url": "instagram.com/rollinghall",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 808,
+			"listed_count": 40,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2208,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068706029062385665/4C_ixNNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068706029062385665/4C_ixNNC_normal.jpg",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✊🏼&lt;롤링 24주년 기념 공연&gt; 2차 라인업 전체 일시 OPEN🎇\n-\n2차까지 오픈 된 공연 한 눈에 보고 골라갑시다!\n이 중에 여러분 취향이 하나쯤은 있겠지💁🏻\n-\n예매 : 🍈멜론티켓 https://t.co/8umQBLmvor\n-\nDesign by @soodotsae\nMusic by @bada_leeeee https://t.co/Cur326Vapu"
+	},
+	{
 		"created_at": "Wed Jan 16 01:57:18 +0000 2019",
 		"id": 1085355282341998600,
 		"id_str": "1085355282341998593",
