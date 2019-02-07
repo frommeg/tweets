@@ -1,6 +1,942 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Jan 17 10:52:40 +0000 2019",
+		"id": 1085852398042603500,
+		"id_str": "1085852398042603520",
+		"full_text": "#올댓뮤직 \n\n목소리 하나로 \n무대를 평정해버린 일레인 느님ㅠㅠ\n\n오늘의 두번째 무대는 \n#프롬 #Fromm 님 💗\n\n페이스북 / MyK 어플로 \n시청하실 수 있습니다 :) https://t.co/VQtbnh4fiL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						54,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085852388215349200,
+					"id_str": "1085852388215349248",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DxG4_nYV4AAEeld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxG4_nYV4AAEeld.jpg",
+					"url": "https://t.co/VQtbnh4fiL",
+					"display_url": "pic.twitter.com/VQtbnh4fiL",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1085852398042603520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085852388215349200,
+					"id_str": "1085852388215349248",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DxG4_nYV4AAEeld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxG4_nYV4AAEeld.jpg",
+					"url": "https://t.co/VQtbnh4fiL",
+					"display_url": "pic.twitter.com/VQtbnh4fiL",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1085852398042603520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3851,
+			"friends_count": 968,
+			"listed_count": 92,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7628,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 \n\n목소리 하나로 \n무대를 평정해버린 일레인 느님ㅠㅠ\n\n오늘의 두번째 무대는 \n#프롬 #Fromm 님 💗\n\n페이스북 / MyK 어플로 \n시청하실 수 있습니다 :) https://t.co/VQtbnh4fiL"
+	},
+	{
+		"created_at": "Wed Jan 30 03:15:45 +0000 2019",
+		"id": 1090448454663340000,
+		"id_str": "1090448454663340033",
+		"full_text": "#올댓뮤직 #본방사수\n1월31일 목요일 밤11시40분 KBS1tv\n\n은은하게 밤을 밝히는\n위로의 목소리🎧\n\n#일레인 #프롬 편이 방송됩니다🌌\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직 #MC와니 #육중완 #Elaine #Fromm #본방사수이벤트 #올댓뮤직_본방사수 https://t.co/xCajyPQvdP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "일레인",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						80,
+						93
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "MC와니",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "육중완",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "Elaine",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "본방사수이벤트",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "올댓뮤직_본방사수",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090448344487407600,
+					"id_str": "1090448344487407616",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1090448344487407616/pu/img/AXm-f28PDczl03-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1090448344487407616/pu/img/AXm-f28PDczl03-U.jpg",
+					"url": "https://t.co/xCajyPQvdP",
+					"display_url": "pic.twitter.com/xCajyPQvdP",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1090448454663340033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090448344487407600,
+					"id_str": "1090448344487407616",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1090448344487407616/pu/img/AXm-f28PDczl03-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1090448344487407616/pu/img/AXm-f28PDczl03-U.jpg",
+					"url": "https://t.co/xCajyPQvdP",
+					"display_url": "pic.twitter.com/xCajyPQvdP",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1090448454663340033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 30583,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1090448344487407616/pu/pl/gER-p7zAvzhcEDZ2.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1090448344487407616/pu/vid/854x480/dLz2hQJ6wwlMP4He.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1090448344487407616/pu/vid/320x180/Jjsyd3ZnOeUp0F4M.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1090448344487407616/pu/vid/640x360/KXi9Iz5b0FVCkJe4.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3851,
+			"friends_count": 968,
+			"listed_count": 92,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7628,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n1월31일 목요일 밤11시40분 KBS1tv\n\n은은하게 밤을 밝히는\n위로의 목소리🎧\n\n#일레인 #프롬 편이 방송됩니다🌌\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직 #MC와니 #육중완 #Elaine #Fromm #본방사수이벤트 #올댓뮤직_본방사수 https://t.co/xCajyPQvdP"
+	},
+	{
+		"created_at": "Thu Jan 31 14:27:17 +0000 2019",
+		"id": 1090979839866134500,
+		"id_str": "1090979839866134529",
+		"full_text": "#올댓뮤직 #본방사수\n오늘 밤11시40분 KBS1tv\n\n목요일엔 올댓뮤직이\n멈추지않는다아아아ㅏㅏㅏ\n\n10분 뒤입니다!\n#일레인 #프롬 편이 방송됩니다🌌\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직 #MC와니 #육중완 #Elaine #Fromm https://t.co/DBBRb1Nf5L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "올댓뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "본방사수",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "일레인",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "ALLTHATMUSIC",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"text": "목요일밤엔올댓뮤직",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "MC와니",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "육중완",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "Elaine",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090979827216044000,
+					"id_str": "1090979827216044032",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/DyPwX2JUUAAPDQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyPwX2JUUAAPDQl.jpg",
+					"url": "https://t.co/DBBRb1Nf5L",
+					"display_url": "pic.twitter.com/DBBRb1Nf5L",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1090979839866134529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090979827216044000,
+					"id_str": "1090979827216044032",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/DyPwX2JUUAAPDQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyPwX2JUUAAPDQl.jpg",
+					"url": "https://t.co/DBBRb1Nf5L",
+					"display_url": "pic.twitter.com/DBBRb1Nf5L",
+					"expanded_url": "https://twitter.com/allthatmusicTV/status/1090979839866134529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217332530,
+			"id_str": "217332530",
+			"name": "올댓뮤직",
+			"screen_name": "allthatmusicTV",
+			"location": "37.867909,127.721901",
+			"description": "KBS Live Music Show 「All That Music」\n\nExplore K-band world! will show you the unique works of hottest Korean band🎸\n\nMC육중완과 함께 떠나는 음악여행♬\n매주 목요일 밤 KBS1TV",
+			"url": "https://t.co/WPmrO6zyE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WPmrO6zyE7",
+							"expanded_url": "http://chuncheon.kbs.co.kr/tv/allthatmusic/board13/applying/index.html",
+							"display_url": "chuncheon.kbs.co.kr/tv/allthatmusi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3851,
+			"friends_count": 968,
+			"listed_count": 92,
+			"created_at": "Fri Nov 19 06:37:16 +0000 2010",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7628,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937912075258441728/-HAAEEXU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217332530/1512450640",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#올댓뮤직 #본방사수\n오늘 밤11시40분 KBS1tv\n\n목요일엔 올댓뮤직이\n멈추지않는다아아아ㅏㅏㅏ\n\n10분 뒤입니다!\n#일레인 #프롬 편이 방송됩니다🌌\n\n#ALLTHATMUSIC #목요일밤엔올댓뮤직 #MC와니 #육중완 #Elaine #Fromm https://t.co/DBBRb1Nf5L"
+	},
+	{
+		"created_at": "Thu Feb 07 10:02:09 +0000 2019",
+		"id": 1093449832096718800,
+		"id_str": "1093449832096718848",
+		"full_text": "📢[REPORT] 바쁘게 흘러가는 시간 속에서 잠시 쉬어 갈 자리를 내어주는 포근한 안식처 같은 싱어송라이터, 프롬(@frommeg)의 미화당 라이브입니다. 그녀가 만들어 준 아늑하고 아름다운 밤을 확인하세요!\n▶ https://t.co/P9ir9vMVwL https://t.co/B9t9m7fAzQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Frommeg",
+					"name": "Fromm12",
+					"id": 584157489,
+					"id_str": "584157489",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P9ir9vMVwL",
+					"expanded_url": "http://bit.ly/2GejdeU",
+					"display_url": "bit.ly/2GejdeU",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093449797820809200,
+					"id_str": "1093449797820809217",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyy2zDrVAAEbs_v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyy2zDrVAAEbs_v.jpg",
+					"url": "https://t.co/B9t9m7fAzQ",
+					"display_url": "pic.twitter.com/B9t9m7fAzQ",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1093449832096718848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093449797820809200,
+					"id_str": "1093449797820809217",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyy2zDrVAAEbs_v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyy2zDrVAAEbs_v.jpg",
+					"url": "https://t.co/B9t9m7fAzQ",
+					"display_url": "pic.twitter.com/B9t9m7fAzQ",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1093449832096718848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직mirrorballmusic",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor (Naver 오늘의 뮤직 최다 선정 배급사) 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10171,
+			"friends_count": 3132,
+			"listed_count": 274,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9947,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢[REPORT] 바쁘게 흘러가는 시간 속에서 잠시 쉬어 갈 자리를 내어주는 포근한 안식처 같은 싱어송라이터, 프롬(@frommeg)의 미화당 라이브입니다. 그녀가 만들어 준 아늑하고 아름다운 밤을 확인하세요!\n▶ https://t.co/P9ir9vMVwL https://t.co/B9t9m7fAzQ"
+	},
+	{
 		"created_at": "Tue Feb 05 08:39:23 +0000 2019",
 		"id": 1092704227120595000,
 		"id_str": "1092704227120594944",
