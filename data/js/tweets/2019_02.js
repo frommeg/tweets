@@ -1,6 +1,1372 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 14:56:21 +0000 2019",
+		"id": 1097510134547394600,
+		"id_str": "1097510134547394563",
+		"full_text": "【 #Melon 】 눈오는 화요일 6시 반딧불이 발매\nhttps://t.co/vQHJRuFRtY\n\n#프롬 #Fromm #멜론 #포토 #스토리 https://t.co/K6EX4IwJbl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						2,
+						8
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "스토리",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vQHJRuFRtY",
+					"expanded_url": "http://www.melon.com/artist/photo_detail.htm?artistId=570302&photoId=80059289&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097510133310148600,
+					"id_str": "1097510133310148608",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DzsjpsFX0AAY-uU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzsjpsFX0AAY-uU.jpg",
+					"url": "https://t.co/K6EX4IwJbl",
+					"display_url": "pic.twitter.com/K6EX4IwJbl",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1097510134547394563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097510133310148600,
+					"id_str": "1097510133310148608",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DzsjpsFX0AAY-uU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzsjpsFX0AAY-uU.jpg",
+					"url": "https://t.co/K6EX4IwJbl",
+					"display_url": "pic.twitter.com/K6EX4IwJbl",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1097510134547394563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "싱어송라이터 프롬(Fromm) 공식 트위터 @frommeg 페이스북 https://t.co/0zQF0hUdie 인스타그램 https://t.co/gzqlcz3Cdx 유튜브 https://t.co/azTtNTpN8X https://t.co/g9eRvFJS3l",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								38,
+								61
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								68,
+								91
+							]
+						},
+						{
+							"url": "https://t.co/azTtNTpN8X",
+							"expanded_url": "https://www.youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/g9eRvFJS3l",
+							"expanded_url": "http://cam.frommeg.com",
+							"display_url": "cam.frommeg.com",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 25,
+			"listed_count": 0,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 3019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3949,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971415559479767041/oQIMUBGy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1520438514",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Melon 】 눈오는 화요일 6시 반딧불이 발매\nhttps://t.co/vQHJRuFRtY\n\n#프롬 #Fromm #멜론 #포토 #스토리 https://t.co/K6EX4IwJbl"
+	},
+	{
+		"created_at": "Mon Feb 18 05:01:48 +0000 2019",
+		"id": 1097360510025031700,
+		"id_str": "1097360510025031680",
+		"full_text": "[그린플러그드 서울 2019 – 참여 아티스트 소개]\n그린플러그드 서울 2019에서 멋진 무대를 보여줄 아티스트를 소개합니다🤗\n특별히 올해는 그린플러그드 서울 10주년에 참여하는 소감과, 관심 있는 환경 이슈에 대해서도 물어봤어요! \n그린이와 함께 보러 가볼까요~? https://t.co/WFERlGhgLf https://t.co/cjFrLNzf3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WFERlGhgLf",
+					"expanded_url": "http://bitly.kr/k4D9O",
+					"display_url": "bitly.kr/k4D9O",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097352542474821600,
+					"id_str": "1097352542474821632",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqUUseVYAAIb9w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqUUseVYAAIb9w.jpg",
+					"url": "https://t.co/cjFrLNzf3P",
+					"display_url": "pic.twitter.com/cjFrLNzf3P",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1097360510025031680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097352542474821600,
+					"id_str": "1097352542474821632",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqUUseVYAAIb9w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqUUseVYAAIb9w.jpg",
+					"url": "https://t.co/cjFrLNzf3P",
+					"display_url": "pic.twitter.com/cjFrLNzf3P",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1097360510025031680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097352542474854400,
+					"id_str": "1097352542474854405",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqUUseV4AUlWCn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqUUseV4AUlWCn.jpg",
+					"url": "https://t.co/cjFrLNzf3P",
+					"display_url": "pic.twitter.com/cjFrLNzf3P",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1097360510025031680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097352542479048700,
+					"id_str": "1097352542479048704",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqUUsfV4AANjon.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqUUsfV4AANjon.jpg",
+					"url": "https://t.co/cjFrLNzf3P",
+					"display_url": "pic.twitter.com/cjFrLNzf3P",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1097360510025031680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097352542479036400,
+					"id_str": "1097352542479036417",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/DzqUUsfVsAEXfuU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzqUUsfVsAEXfuU.jpg",
+					"url": "https://t.co/cjFrLNzf3P",
+					"display_url": "pic.twitter.com/cjFrLNzf3P",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1097360510025031680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": "https://t.co/zMjTE5TCiy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMjTE5TCiy",
+							"expanded_url": "http://www.greenplugged.com",
+							"display_url": "greenplugged.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12921,
+			"friends_count": 171,
+			"listed_count": 264,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10592,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1550191158",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 서울 2019 – 참여 아티스트 소개]\n그린플러그드 서울 2019에서 멋진 무대를 보여줄 아티스트를 소개합니다🤗\n특별히 올해는 그린플러그드 서울 10주년에 참여하는 소감과, 관심 있는 환경 이슈에 대해서도 물어봤어요! \n그린이와 함께 보러 가볼까요~? https://t.co/WFERlGhgLf https://t.co/cjFrLNzf3P"
+	},
+	{
+		"created_at": "Sun Feb 17 06:47:03 +0000 2019",
+		"id": 1097024608912339000,
+		"id_str": "1097024608912338944",
+		"full_text": "190216 프롬(Fromm) - 달의 뒤편으로 와요 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/70zHM5U28h\n#프롬 #Fromm #롤링홀 #롤링홀24주년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "롤링홀24주년",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/70zHM5U28h",
+					"expanded_url": "https://youtu.be/qW0KXz07eV8",
+					"display_url": "youtu.be/qW0KXz07eV8",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1097024607226196000,
+		"in_reply_to_status_id_str": "1097024607226195968",
+		"in_reply_to_user_id": 864548560699654100,
+		"in_reply_to_user_id_str": "864548560699654144",
+		"in_reply_to_screen_name": "nunnoru",
+		"user": {
+			"id": 864548560699654100,
+			"id_str": "864548560699654144",
+			"name": "영훈",
+			"screen_name": "nunnoru",
+			"location": "대한민국 인천",
+			"description": "#cheeze #치즈 #달총 #dalchong 사랑해요ㅠㅡㅠ + 스텔라장,디에이드,백예린,한올,허세과등 인디 잡덕 /\n가수 본인 외 사진 영상은 2차가공 하지 말아주세요 프로필의 링크는 영상 업로드 해놓은 유투브 채널이에요",
+			"url": "https://t.co/wIkldQQOVz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wIkldQQOVz",
+							"expanded_url": "http://bit.ly/juriest",
+							"display_url": "bit.ly/juriest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 32,
+			"listed_count": 2,
+			"created_at": "Tue May 16 18:30:14 +0000 2017",
+			"favourites_count": 1683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864548560699654144/1538756556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190216 프롬(Fromm) - 달의 뒤편으로 와요 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/70zHM5U28h\n#프롬 #Fromm #롤링홀 #롤링홀24주년"
+	},
+	{
+		"created_at": "Sun Feb 17 06:47:02 +0000 2019",
+		"id": 1097024607226196000,
+		"id_str": "1097024607226195968",
+		"full_text": "190216 프롬(Fromm) - Milan Blue + Midnight Driver [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/m9vRoHGm1O\n#프롬 #Fromm #롤링홀 #롤링홀24주년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "롤링홀24주년",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m9vRoHGm1O",
+					"expanded_url": "https://youtu.be/6AjYGQp7O2c",
+					"display_url": "youtu.be/6AjYGQp7O2c",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1097024605301092400,
+		"in_reply_to_status_id_str": "1097024605301092353",
+		"in_reply_to_user_id": 864548560699654100,
+		"in_reply_to_user_id_str": "864548560699654144",
+		"in_reply_to_screen_name": "nunnoru",
+		"user": {
+			"id": 864548560699654100,
+			"id_str": "864548560699654144",
+			"name": "영훈",
+			"screen_name": "nunnoru",
+			"location": "대한민국 인천",
+			"description": "#cheeze #치즈 #달총 #dalchong 사랑해요ㅠㅡㅠ + 스텔라장,디에이드,백예린,한올,허세과등 인디 잡덕 /\n가수 본인 외 사진 영상은 2차가공 하지 말아주세요 프로필의 링크는 영상 업로드 해놓은 유투브 채널이에요",
+			"url": "https://t.co/wIkldQQOVz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wIkldQQOVz",
+							"expanded_url": "http://bit.ly/juriest",
+							"display_url": "bit.ly/juriest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 32,
+			"listed_count": 2,
+			"created_at": "Tue May 16 18:30:14 +0000 2017",
+			"favourites_count": 1683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864548560699654144/1538756556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190216 프롬(Fromm) - Milan Blue + Midnight Driver [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/m9vRoHGm1O\n#프롬 #Fromm #롤링홀 #롤링홀24주년"
+	},
+	{
+		"created_at": "Sun Feb 17 06:47:02 +0000 2019",
+		"id": 1097024605301092400,
+		"id_str": "1097024605301092353",
+		"full_text": "190216 프롬(Fromm) - 서울밤 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/6nc5hvxkAH\n#프롬 #Fromm #롤링홀 #롤링홀24주년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "롤링홀24주년",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6nc5hvxkAH",
+					"expanded_url": "https://youtu.be/CP1JDPP3bZE",
+					"display_url": "youtu.be/CP1JDPP3bZE",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1097024602927116300,
+		"in_reply_to_status_id_str": "1097024602927116293",
+		"in_reply_to_user_id": 864548560699654100,
+		"in_reply_to_user_id_str": "864548560699654144",
+		"in_reply_to_screen_name": "nunnoru",
+		"user": {
+			"id": 864548560699654100,
+			"id_str": "864548560699654144",
+			"name": "영훈",
+			"screen_name": "nunnoru",
+			"location": "대한민국 인천",
+			"description": "#cheeze #치즈 #달총 #dalchong 사랑해요ㅠㅡㅠ + 스텔라장,디에이드,백예린,한올,허세과등 인디 잡덕 /\n가수 본인 외 사진 영상은 2차가공 하지 말아주세요 프로필의 링크는 영상 업로드 해놓은 유투브 채널이에요",
+			"url": "https://t.co/wIkldQQOVz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wIkldQQOVz",
+							"expanded_url": "http://bit.ly/juriest",
+							"display_url": "bit.ly/juriest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 32,
+			"listed_count": 2,
+			"created_at": "Tue May 16 18:30:14 +0000 2017",
+			"favourites_count": 1683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864548560699654144/1538756556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190216 프롬(Fromm) - 서울밤 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/6nc5hvxkAH\n#프롬 #Fromm #롤링홀 #롤링홀24주년"
+	},
+	{
+		"created_at": "Sun Feb 17 06:47:01 +0000 2019",
+		"id": 1097024602927116300,
+		"id_str": "1097024602927116293",
+		"full_text": "190216 프롬(Fromm) - 영원처럼 안아줘 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/Dpo7slKQQG\n#프롬 #Fromm #롤링홀 #롤링홀24주년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "롤링홀24주년",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dpo7slKQQG",
+					"expanded_url": "https://youtu.be/Kggd55K6hIM",
+					"display_url": "youtu.be/Kggd55K6hIM",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1097024601308024800,
+		"in_reply_to_status_id_str": "1097024601308024832",
+		"in_reply_to_user_id": 864548560699654100,
+		"in_reply_to_user_id_str": "864548560699654144",
+		"in_reply_to_screen_name": "nunnoru",
+		"user": {
+			"id": 864548560699654100,
+			"id_str": "864548560699654144",
+			"name": "영훈",
+			"screen_name": "nunnoru",
+			"location": "대한민국 인천",
+			"description": "#cheeze #치즈 #달총 #dalchong 사랑해요ㅠㅡㅠ + 스텔라장,디에이드,백예린,한올,허세과등 인디 잡덕 /\n가수 본인 외 사진 영상은 2차가공 하지 말아주세요 프로필의 링크는 영상 업로드 해놓은 유투브 채널이에요",
+			"url": "https://t.co/wIkldQQOVz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wIkldQQOVz",
+							"expanded_url": "http://bit.ly/juriest",
+							"display_url": "bit.ly/juriest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 32,
+			"listed_count": 2,
+			"created_at": "Tue May 16 18:30:14 +0000 2017",
+			"favourites_count": 1683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864548560699654144/1538756556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190216 프롬(Fromm) - 영원처럼 안아줘 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/Dpo7slKQQG\n#프롬 #Fromm #롤링홀 #롤링홀24주년"
+	},
+	{
+		"created_at": "Sun Feb 17 06:47:01 +0000 2019",
+		"id": 1097024601308024800,
+		"id_str": "1097024601308024832",
+		"full_text": "190216 프롬(Fromm) - 좋아해 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/JRRloq5xvy\n#프롬 #Fromm #롤링홀 #롤링홀24주년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "롤링홀24주년",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JRRloq5xvy",
+					"expanded_url": "https://youtu.be/6iLn2qZbG2E",
+					"display_url": "youtu.be/6iLn2qZbG2E",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1097024598799863800,
+		"in_reply_to_status_id_str": "1097024598799863808",
+		"in_reply_to_user_id": 864548560699654100,
+		"in_reply_to_user_id_str": "864548560699654144",
+		"in_reply_to_screen_name": "nunnoru",
+		"user": {
+			"id": 864548560699654100,
+			"id_str": "864548560699654144",
+			"name": "영훈",
+			"screen_name": "nunnoru",
+			"location": "대한민국 인천",
+			"description": "#cheeze #치즈 #달총 #dalchong 사랑해요ㅠㅡㅠ + 스텔라장,디에이드,백예린,한올,허세과등 인디 잡덕 /\n가수 본인 외 사진 영상은 2차가공 하지 말아주세요 프로필의 링크는 영상 업로드 해놓은 유투브 채널이에요",
+			"url": "https://t.co/wIkldQQOVz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wIkldQQOVz",
+							"expanded_url": "http://bit.ly/juriest",
+							"display_url": "bit.ly/juriest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 32,
+			"listed_count": 2,
+			"created_at": "Tue May 16 18:30:14 +0000 2017",
+			"favourites_count": 1683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864548560699654144/1538756556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190216 프롬(Fromm) - 좋아해 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/JRRloq5xvy\n#프롬 #Fromm #롤링홀 #롤링홀24주년"
+	},
+	{
+		"created_at": "Sun Feb 17 06:47:00 +0000 2019",
+		"id": 1097024598799863800,
+		"id_str": "1097024598799863808",
+		"full_text": "190216 프롬(Fromm) - 서로의 조각 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/4f0vJIOuIg\n#프롬 #Fromm #롤링홀 #롤링홀24주년",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "롤링홀24주년",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4f0vJIOuIg",
+					"expanded_url": "https://youtu.be/oCTXIRr6cXE",
+					"display_url": "youtu.be/oCTXIRr6cXE",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864548560699654100,
+			"id_str": "864548560699654144",
+			"name": "영훈",
+			"screen_name": "nunnoru",
+			"location": "대한민국 인천",
+			"description": "#cheeze #치즈 #달총 #dalchong 사랑해요ㅠㅡㅠ + 스텔라장,디에이드,백예린,한올,허세과등 인디 잡덕 /\n가수 본인 외 사진 영상은 2차가공 하지 말아주세요 프로필의 링크는 영상 업로드 해놓은 유투브 채널이에요",
+			"url": "https://t.co/wIkldQQOVz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wIkldQQOVz",
+							"expanded_url": "http://bit.ly/juriest",
+							"display_url": "bit.ly/juriest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 32,
+			"listed_count": 2,
+			"created_at": "Tue May 16 18:30:14 +0000 2017",
+			"favourites_count": 1683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063725713096765441/KaAWtoPP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864548560699654144/1538756556",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190216 프롬(Fromm) - 서로의 조각 [4k] @롤링홀 24주년 기념공연 vol.14\nhttps://t.co/4f0vJIOuIg\n#프롬 #Fromm #롤링홀 #롤링홀24주년"
+	},
+	{
 		"created_at": "Sun Feb 17 06:47:03 +0000 2019",
 		"id": 1097024608912339000,
 		"id_str": "1097024608912338944",
