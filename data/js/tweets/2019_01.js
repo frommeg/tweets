@@ -141,9 +141,9 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283830,
-			"friends_count": 20950,
-			"listed_count": 855,
+			"followers_count": 283772,
+			"friends_count": 20948,
+			"listed_count": 856,
 			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
 			"favourites_count": 181,
 			"utc_offset": null,
@@ -350,9 +350,9 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 283830,
-			"friends_count": 20950,
-			"listed_count": 855,
+			"followers_count": 283772,
+			"friends_count": 20948,
+			"listed_count": 856,
 			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
 			"favourites_count": 181,
 			"utc_offset": null,
@@ -477,533 +477,9 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 10108,
+			"followers_count": 10106,
 			"friends_count": 3125,
-			"listed_count": 274,
-			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
-			"favourites_count": 912,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 9981,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
-			"profile_link_color": "0084B4",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 4,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko",
-		"text": "🎤[LIVE] 싱어송라이터, 프롬(@frommeg)의 EP 발매기념 콘서트 ‘Midnight Candy’에서 진행된 ‘Milan Blue’ 라이브 현장 영상입니다. 이 영상이 그 황홀했던 밤으로 여러분을 다시 데려다줄 거예요.\nhttps://t.co/Jq8w0C8M8l"
-	},
-	{
-		"created_at": "Thu Jan 31 10:33:24 +0000 2019",
-		"id": 1090920980891881500,
-		"id_str": "1090920980891881472",
-		"full_text": "#EBS #스페이스공감 #공감 #허클베리핀 #Darpe #누구인가 #사랑하는친구들아안녕나는너희들이모르는사이에잠시지옥에다녀왔어 #그날의별이뜰때 #프롬 #영원처럼안아줘 #어린밤에우리 #후유증 #그날의별이뜰때",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			113
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "EBS",
-					"indices": [
-						0,
-						4
-					]
-				},
-				{
-					"text": "스페이스공감",
-					"indices": [
-						5,
-						12
-					]
-				},
-				{
-					"text": "공감",
-					"indices": [
-						13,
-						16
-					]
-				},
-				{
-					"text": "허클베리핀",
-					"indices": [
-						17,
-						23
-					]
-				},
-				{
-					"text": "Darpe",
-					"indices": [
-						24,
-						30
-					]
-				},
-				{
-					"text": "누구인가",
-					"indices": [
-						31,
-						36
-					]
-				},
-				{
-					"text": "사랑하는친구들아안녕나는너희들이모르는사이에잠시지옥에다녀왔어",
-					"indices": [
-						37,
-						69
-					]
-				},
-				{
-					"text": "그날의별이뜰때",
-					"indices": [
-						70,
-						78
-					]
-				},
-				{
-					"text": "프롬",
-					"indices": [
-						79,
-						82
-					]
-				},
-				{
-					"text": "영원처럼안아줘",
-					"indices": [
-						83,
-						91
-					]
-				},
-				{
-					"text": "어린밤에우리",
-					"indices": [
-						92,
-						99
-					]
-				},
-				{
-					"text": "후유증",
-					"indices": [
-						100,
-						104
-					]
-				},
-				{
-					"text": "그날의별이뜰때",
-					"indices": [
-						105,
-						113
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-		"in_reply_to_status_id": 1090920925057273900,
-		"in_reply_to_status_id_str": "1090920925057273858",
-		"in_reply_to_user_id": 128619707,
-		"in_reply_to_user_id_str": "128619707",
-		"in_reply_to_screen_name": "ebsspace",
-		"user": {
-			"id": 128619707,
-			"id_str": "128619707",
-			"name": "EBS스페이스 共感",
-			"screen_name": "ebsspace",
-			"location": "경기도 고양시 일산동구 한류월드로 281",
-			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
-			"url": "https://t.co/r6vXpMlaMq",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/r6vXpMlaMq",
-							"expanded_url": "http://www.ebsspace.com",
-							"display_url": "ebsspace.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 283848,
-			"friends_count": 20951,
-			"listed_count": 855,
-			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
-			"favourites_count": 181,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 6509,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "022330",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
-			"profile_link_color": "0084B4",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "C0DFEC",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 4,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "und",
-		"text": "#EBS #스페이스공감 #공감 #허클베리핀 #Darpe #누구인가 #사랑하는친구들아안녕나는너희들이모르는사이에잠시지옥에다녀왔어 #그날의별이뜰때 #프롬 #영원처럼안아줘 #어린밤에우리 #후유증 #그날의별이뜰때"
-	},
-	{
-		"created_at": "Thu Jan 31 10:33:11 +0000 2019",
-		"id": 1090920925057273900,
-		"id_str": "1090920925057273858",
-		"full_text": "[EBS 스페이스 공감 방송 안내]\n.\n오늘 밤 11시 55분! EBS1에서\n허클베리 핀 ‘바다를 품고 돌아오다’ X 프롬 ‘그날의 별이 뜰 때’편이 방송됩니다~*\n많은 시청 바랍니다 :)\n.\n[방송안내] 허클베리 핀 ‘바다를 품고 돌아오다’ X 프롬 ‘그날의 별이 뜰 때’\n[방송일시] 1월 31일 목요일 밤 11시 55분 https://t.co/RVD06beryp",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			181
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1090920913673932800,
-					"id_str": "1090920913673932800",
-					"indices": [
-						182,
-						205
-					],
-					"media_url": "http://pbs.twimg.com/media/DyO6yoGUUAA3nTB.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DyO6yoGUUAA3nTB.jpg",
-					"url": "https://t.co/RVD06beryp",
-					"display_url": "pic.twitter.com/RVD06beryp",
-					"expanded_url": "https://twitter.com/ebsspace/status/1090920925057273858/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1242,
-							"h": 1242,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1090920913673932800,
-					"id_str": "1090920913673932800",
-					"indices": [
-						182,
-						205
-					],
-					"media_url": "http://pbs.twimg.com/media/DyO6yoGUUAA3nTB.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DyO6yoGUUAA3nTB.jpg",
-					"url": "https://t.co/RVD06beryp",
-					"display_url": "pic.twitter.com/RVD06beryp",
-					"expanded_url": "https://twitter.com/ebsspace/status/1090920925057273858/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1242,
-							"h": 1242,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 1090920913569120300,
-					"id_str": "1090920913569120256",
-					"indices": [
-						182,
-						205
-					],
-					"media_url": "http://pbs.twimg.com/media/DyO6yntVAAAYHk0.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DyO6yntVAAAYHk0.jpg",
-					"url": "https://t.co/RVD06beryp",
-					"display_url": "pic.twitter.com/RVD06beryp",
-					"expanded_url": "https://twitter.com/ebsspace/status/1090920925057273858/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 1200,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1242,
-							"h": 1242,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 128619707,
-			"id_str": "128619707",
-			"name": "EBS스페이스 共感",
-			"screen_name": "ebsspace",
-			"location": "경기도 고양시 일산동구 한류월드로 281",
-			"description": "오직, 음악! [EBS 스페이스 공감]입니다. 목요일 밤 11시 55분 방송. 홈페이지에서 관람 신청해주세요.",
-			"url": "https://t.co/r6vXpMlaMq",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/r6vXpMlaMq",
-							"expanded_url": "http://www.ebsspace.com",
-							"display_url": "ebsspace.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 283848,
-			"friends_count": 20951,
-			"listed_count": 855,
-			"created_at": "Thu Apr 01 17:35:28 +0000 2010",
-			"favourites_count": 181,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 6509,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "022330",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/451011562178764800/wXpPyl7u_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128619707/1367987100",
-			"profile_link_color": "0084B4",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "C0DFEC",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 11,
-		"favorite_count": 13,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko",
-		"text": "[EBS 스페이스 공감 방송 안내]\n.\n오늘 밤 11시 55분! EBS1에서\n허클베리 핀 ‘바다를 품고 돌아오다’ X 프롬 ‘그날의 별이 뜰 때’편이 방송됩니다~*\n많은 시청 바랍니다 :)\n.\n[방송안내] 허클베리 핀 ‘바다를 품고 돌아오다’ X 프롬 ‘그날의 별이 뜰 때’\n[방송일시] 1월 31일 목요일 밤 11시 55분 https://t.co/RVD06beryp"
-	},
-	{
-		"created_at": "Thu Jan 31 10:02:10 +0000 2019",
-		"id": 1090913118002147300,
-		"id_str": "1090913118002147328",
-		"full_text": "🎤[LIVE] 싱어송라이터, 프롬(@frommeg)의 EP 발매기념 콘서트 ‘Midnight Candy’에서 진행된 ‘Milan Blue’ 라이브 현장 영상입니다. 이 영상이 그 황홀했던 밤으로 여러분을 다시 데려다줄 거예요.\nhttps://t.co/Jq8w0C8M8l",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			150
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Frommeg",
-					"name": "Fromm12",
-					"id": 584157489,
-					"id_str": "584157489",
-					"indices": [
-						19,
-						27
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/Jq8w0C8M8l",
-					"expanded_url": "http://youtu.be/6YRX4gSLH_A",
-					"display_url": "youtu.be/6YRX4gSLH_A",
-					"indices": [
-						127,
-						150
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 125049211,
-			"id_str": "125049211",
-			"name": "미러볼뮤직mirrorballmusic",
-			"screen_name": "mirrorballmusic",
-			"location": "Republic Korea Mapo-gu",
-			"description": "Korean Indie Music Distributor (Naver 오늘의 뮤직 최다 선정 배급사) 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
-			"url": "https://t.co/Ty0n69rcT2",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/Ty0n69rcT2",
-							"expanded_url": "http://www.mirrorballmusic.co.kr",
-							"display_url": "mirrorballmusic.co.kr",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/7KhvfUdI2i",
-							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
-							"display_url": "youtube.com/mirrorballmusi…",
-							"indices": [
-								87,
-								110
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 10107,
-			"friends_count": 3125,
-			"listed_count": 274,
+			"listed_count": 275,
 			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
 			"favourites_count": 912,
 			"utc_offset": null,
@@ -1175,7 +651,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1340,7 +816,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1505,7 +981,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1670,7 +1146,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1821,7 +1297,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1972,7 +1448,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2201,7 +1677,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2285,7 +1761,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 350,
+			"followers_count": 349,
 			"friends_count": 11,
 			"listed_count": 10,
 			"created_at": "Fri May 18 19:08:44 +0000 2012",
@@ -2294,7 +1770,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 249,
+			"statuses_count": 250,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2529,7 +2005,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2603,7 +2079,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 17044,
+			"followers_count": 17038,
 			"friends_count": 227,
 			"listed_count": 259,
 			"created_at": "Fri Oct 15 20:01:17 +0000 2010",
@@ -2612,7 +2088,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 4555,
+			"statuses_count": 4557,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2775,7 +2251,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2940,7 +2416,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3091,7 +2567,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3270,7 +2746,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3449,7 +2925,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3542,7 +3018,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 350,
+			"followers_count": 349,
 			"friends_count": 11,
 			"listed_count": 10,
 			"created_at": "Fri May 18 19:08:44 +0000 2012",
@@ -3551,7 +3027,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 249,
+			"statuses_count": 250,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3780,7 +3256,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3235,
+			"followers_count": 3238,
 			"friends_count": 805,
 			"listed_count": 40,
 			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
@@ -3789,7 +3265,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2256,
+			"statuses_count": 2257,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3818,7 +3294,7 @@ Grailbird.data.tweets_2019_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 64,
+		"retweet_count": 63,
 		"favorite_count": 32,
 		"favorited": false,
 		"retweeted": true,
@@ -4004,7 +3480,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3235,
+			"followers_count": 3238,
 			"friends_count": 805,
 			"listed_count": 40,
 			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
@@ -4013,7 +3489,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2256,
+			"statuses_count": 2257,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4248,7 +3724,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3235,
+			"followers_count": 3238,
 			"friends_count": 805,
 			"listed_count": 40,
 			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
@@ -4257,7 +3733,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2256,
+			"statuses_count": 2257,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4442,7 +3918,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4678,7 +4154,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4829,7 +4305,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4913,7 +4389,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 350,
+			"followers_count": 349,
 			"friends_count": 11,
 			"listed_count": 10,
 			"created_at": "Fri May 18 19:08:44 +0000 2012",
@@ -4922,7 +4398,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 249,
+			"statuses_count": 250,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5150,7 +4626,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5301,7 +4777,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5452,7 +4928,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5688,7 +5164,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5770,7 +5246,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 350,
+			"followers_count": 349,
 			"friends_count": 11,
 			"listed_count": 10,
 			"created_at": "Fri May 18 19:08:44 +0000 2012",
@@ -5779,7 +5255,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 249,
+			"statuses_count": 250,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5928,7 +5404,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6157,7 +5633,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6308,7 +5784,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6565,7 +6041,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6843,7 +6319,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7008,7 +6484,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7204,9 +6680,9 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 10107,
+			"followers_count": 10106,
 			"friends_count": 3125,
-			"listed_count": 274,
+			"listed_count": 275,
 			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
 			"favourites_count": 912,
 			"utc_offset": null,
@@ -7364,7 +6840,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7515,7 +6991,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7666,7 +7142,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7817,7 +7293,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7968,7 +7444,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8239,7 +7715,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8482,7 +7958,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3986,
+			"statuses_count": 3984,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8571,7 +8047,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 350,
+			"followers_count": 349,
 			"friends_count": 11,
 			"listed_count": 10,
 			"created_at": "Fri May 18 19:08:44 +0000 2012",
@@ -8580,7 +8056,7 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 249,
+			"statuses_count": 250,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
