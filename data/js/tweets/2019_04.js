@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 08:47:11 +0000 2019",
+		"id": 1120553983439974400,
+		"id_str": "1120610054523080704",
+		"full_text": "[YBx그린플러그드서울 환경캠페인 송 '말 없는 축제' 발표]\n10주년을 맞은 그린플러그드 서울과 YB, '그린플러그드 서울 2019' 참여 아티스트들이 더욱 진정성 있는 환경 캠페인 전개와, 파급력 있는 전달을 위해 제작한 환경캠페인 송 '말 없는 축제'를 발표합니다\nFULL버전→https://t.co/VsAkD4xO5c https://t.co/WEHef474x8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VsAkD4xO5c",
+					"expanded_url": "https://youtu.be/FK8U7ZWeFFg",
+					"display_url": "youtu.be/FK8U7ZWeFFg",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1120551627130167300,
+					"id_str": "1120551627130167296",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120551627130167296/pu/img/rWKjSMxoXIf6QjRB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120551627130167296/pu/img/rWKjSMxoXIf6QjRB.jpg",
+					"url": "https://t.co/WEHef474x8",
+					"display_url": "pic.twitter.com/WEHef474x8",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1120553983439974400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120551627130167300,
+					"id_str": "1120551627130167296",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120551627130167296/pu/img/rWKjSMxoXIf6QjRB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120551627130167296/pu/img/rWKjSMxoXIf6QjRB.jpg",
+					"url": "https://t.co/WEHef474x8",
+					"display_url": "pic.twitter.com/WEHef474x8",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1120553983439974400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 108659,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120551627130167296/pu/vid/320x180/6hFEpT15Jnq3ubx2.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120551627130167296/pu/vid/640x360/b4BC17iZsB8zyE7Q.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1120551627130167296/pu/pl/CwbYpugRdJx4mRve.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120551627130167296/pu/vid/1280x720/nvS4pLjsBO2gvCJR.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": "https://t.co/zMjTE5TCiy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMjTE5TCiy",
+							"expanded_url": "http://www.greenplugged.com",
+							"display_url": "greenplugged.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12910,
+			"friends_count": 166,
+			"listed_count": 264,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10641,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1550191158",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[YBx그린플러그드서울 환경캠페인 송 '말 없는 축제' 발표]\n10주년을 맞은 그린플러그드 서울과 YB, '그린플러그드 서울 2019' 참여 아티스트들이 더욱 진정성 있는 환경 캠페인 전개와, 파급력 있는 전달을 위해 제작한 환경캠페인 송 '말 없는 축제'를 발표합니다\nFULL버전→https://t.co/VsAkD4xO5c https://t.co/WEHef474x8"
+	},
+	{
 		"created_at": "Mon Apr 15 21:09:56 +0000 2019",
 		"id": 1117897868927332400,
 		"id_str": "1117897868927332353",
