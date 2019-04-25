@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 08:41:11 +0000 2019",
+		"id": 1120979218014199800,
+		"id_str": "1121333319709278211",
+		"full_text": "[그린플러그드-BYE PLASTIC 해시태그 EVENT]\n여러분은 플라스틱을 줄이기 위해 어떤 노력을 하고계신가요? 캠페인송 참여 아티스트들이 작은 실천방안을 알려드립니다! 인스타그램에서 이벤트에 참여해주세요! 10분께 딕펑스가 먹고있는 친환경 접시를 선물로 드립니다!\n→https://t.co/P6V5Wuym5H https://t.co/dWt8RWPyVK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P6V5Wuym5H",
+					"expanded_url": "http://bitly.kr/G0Hl5j",
+					"display_url": "bitly.kr/G0Hl5j",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1120979188121399300,
+					"id_str": "1120979188121399296",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D46EoeSU8AA6WLr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46EoeSU8AA6WLr.jpg",
+					"url": "https://t.co/dWt8RWPyVK",
+					"display_url": "pic.twitter.com/dWt8RWPyVK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1120979218014199808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120979188121399300,
+					"id_str": "1120979188121399296",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D46EoeSU8AA6WLr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46EoeSU8AA6WLr.jpg",
+					"url": "https://t.co/dWt8RWPyVK",
+					"display_url": "pic.twitter.com/dWt8RWPyVK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1120979218014199808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120979188129787900,
+					"id_str": "1120979188129787904",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D46EoeUU8AA3pmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46EoeUU8AA3pmP.jpg",
+					"url": "https://t.co/dWt8RWPyVK",
+					"display_url": "pic.twitter.com/dWt8RWPyVK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1120979218014199808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120979188138176500,
+					"id_str": "1120979188138176517",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D46EoeWU8AUkHse.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46EoeWU8AUkHse.jpg",
+					"url": "https://t.co/dWt8RWPyVK",
+					"display_url": "pic.twitter.com/dWt8RWPyVK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1120979218014199808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120979188125585400,
+					"id_str": "1120979188125585408",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/D46EoeTU0AAzXI_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46EoeTU0AAzXI_.jpg",
+					"url": "https://t.co/dWt8RWPyVK",
+					"display_url": "pic.twitter.com/dWt8RWPyVK",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1120979218014199808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": "https://t.co/zMjTE5TCiy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMjTE5TCiy",
+							"expanded_url": "http://www.greenplugged.com",
+							"display_url": "greenplugged.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12918,
+			"friends_count": 166,
+			"listed_count": 264,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10647,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1550191158",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드-BYE PLASTIC 해시태그 EVENT]\n여러분은 플라스틱을 줄이기 위해 어떤 노력을 하고계신가요? 캠페인송 참여 아티스트들이 작은 실천방안을 알려드립니다! 인스타그램에서 이벤트에 참여해주세요! 10분께 딕펑스가 먹고있는 친환경 접시를 선물로 드립니다!\n→https://t.co/P6V5Wuym5H https://t.co/dWt8RWPyVK"
+	},
+	{
 		"created_at": "Wed Apr 24 06:39:15 +0000 2019",
 		"id": 1120940246911324200,
 		"id_str": "1120940246911324160",
