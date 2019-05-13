@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 11:48:08 +0000 2019",
+		"id": 1127807705815535600,
+		"id_str": "1127903348093407234",
+		"full_text": "'그린플러그드 서울 2019' 티켓 교환부터 입장까지, 공지사항과 자주 묻는 질문을 정리했어요. 꼭 확인해주세요!\n💚티켓부스운영 : 오전 10시-마지막 공연 시작 후 10분 뒤\n💚게이트오픈 및 입장시작 : 오전 11시\n💚현장 판매는 진행되지 않으며, 온라인 티켓 예매는 목요일(16일)까지만 가능합니다. https://t.co/yKnmX6ntJi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127807680574214100,
+					"id_str": "1127807680574214144",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bHHC-VUAABeCm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bHHC-VUAABeCm.jpg",
+					"url": "https://t.co/yKnmX6ntJi",
+					"display_url": "pic.twitter.com/yKnmX6ntJi",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1127807705815535617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127807680574214100,
+					"id_str": "1127807680574214144",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bHHC-VUAABeCm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bHHC-VUAABeCm.jpg",
+					"url": "https://t.co/yKnmX6ntJi",
+					"display_url": "pic.twitter.com/yKnmX6ntJi",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1127807705815535617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127807680578342900,
+					"id_str": "1127807680578342912",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bHHC_UUAAgI4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bHHC_UUAAgI4p.jpg",
+					"url": "https://t.co/yKnmX6ntJi",
+					"display_url": "pic.twitter.com/yKnmX6ntJi",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1127807705815535617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127807680578330600,
+					"id_str": "1127807680578330625",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bHHC_UIAEy68i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bHHC_UIAEy68i.jpg",
+					"url": "https://t.co/yKnmX6ntJi",
+					"display_url": "pic.twitter.com/yKnmX6ntJi",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1127807705815535617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1127807680574132200,
+					"id_str": "1127807680574132224",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D6bHHC-UEAATJjk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6bHHC-UEAATJjk.jpg",
+					"url": "https://t.co/yKnmX6ntJi",
+					"display_url": "pic.twitter.com/yKnmX6ntJi",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1127807705815535617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": "https://t.co/zMjTE5TCiy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMjTE5TCiy",
+							"expanded_url": "http://www.greenplugged.com",
+							"display_url": "greenplugged.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12950,
+			"friends_count": 166,
+			"listed_count": 261,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10667,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1550191158",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'그린플러그드 서울 2019' 티켓 교환부터 입장까지, 공지사항과 자주 묻는 질문을 정리했어요. 꼭 확인해주세요!\n💚티켓부스운영 : 오전 10시-마지막 공연 시작 후 10분 뒤\n💚게이트오픈 및 입장시작 : 오전 11시\n💚현장 판매는 진행되지 않으며, 온라인 티켓 예매는 목요일(16일)까지만 가능합니다. https://t.co/yKnmX6ntJi"
+	},
+	{
 		"created_at": "Fri May 10 09:44:20 +0000 2019",
 		"id": 1126785030741733400,
 		"id_str": "1126785030741733379",
