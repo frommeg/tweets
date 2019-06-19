@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 19 12:08:30 +0000 2019",
+		"id": 1141211115159900200,
+		"id_str": "1141316825285664768",
+		"full_text": "[그린플러그드 동해 2019 최종 라인업 발표]\n푸르른 바다 쏟아지는 별빛, 한여름의 뮤토피아 &lt;그린플러그드 동해 2019&gt;의 최종 라인업을 발표합니다! \n\n더불어 그린플러그드 동해 2019를 더욱 편리하고 풍성하게 즐길 수 있는 안내사항을 전달 드리니 꼭 확인해주세요! → https://t.co/i2MxQZJUYb https://t.co/W9Grb1MUCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i2MxQZJUYb",
+					"expanded_url": "http://bitly.kr/zrq2dP",
+					"display_url": "bitly.kr/zrq2dP",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1141211065251795000,
+					"id_str": "1141211065251794944",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Zlat4UEAAYjo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Zlat4UEAAYjo3.jpg",
+					"url": "https://t.co/W9Grb1MUCH",
+					"display_url": "pic.twitter.com/W9Grb1MUCH",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1141211115159900161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1557,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141211065251795000,
+					"id_str": "1141211065251794944",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Zlat4UEAAYjo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Zlat4UEAAYjo3.jpg",
+					"url": "https://t.co/W9Grb1MUCH",
+					"display_url": "pic.twitter.com/W9Grb1MUCH",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1141211115159900161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1557,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1141211065256013800,
+					"id_str": "1141211065256013825",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Zlat5UcAEVZaH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Zlat5UcAEVZaH.jpg",
+					"url": "https://t.co/W9Grb1MUCH",
+					"display_url": "pic.twitter.com/W9Grb1MUCH",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1141211115159900161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1417,
+							"h": 1417,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12836,
+			"friends_count": 165,
+			"listed_count": 262,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1559108649",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 동해 2019 최종 라인업 발표]\n푸르른 바다 쏟아지는 별빛, 한여름의 뮤토피아 &lt;그린플러그드 동해 2019&gt;의 최종 라인업을 발표합니다! \n\n더불어 그린플러그드 동해 2019를 더욱 편리하고 풍성하게 즐길 수 있는 안내사항을 전달 드리니 꼭 확인해주세요! → https://t.co/i2MxQZJUYb https://t.co/W9Grb1MUCH"
+	},
+	{
 		"created_at": "Sun Jun 09 11:33:24 +0000 2019",
 		"id": 1137684115254390800,
 		"id_str": "1137684115254390789",
