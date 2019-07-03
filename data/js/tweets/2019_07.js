@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 03 10:00:52 +0000 2019",
+		"id": 1146284089365991400,
+		"id_str": "1146358137265352705",
+		"full_text": "[그린플러그드 동해 2019 타임테이블 발표]\n\n'그린플러그드 동해 2019' 타임테이블을 발표합니다!\n아티스트별 공연 시간과 사인회 참여 아티스트, \n티켓부스 및 게이트 오픈 시각을 확인하실 수 있습니다!\n\n✔티켓부스오픈 11:00\n✔게이트오픈 12:00\n\n타임테이블 크게보기👇\nhttps://t.co/JdnBM37ETc https://t.co/sWrFvQhg0V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JdnBM37ETc",
+					"expanded_url": "https://www.gpdfestival.com/time-table",
+					"display_url": "gpdfestival.com/time-table",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1146281336749068300,
+					"id_str": "1146281336749068293",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D-hozXGWkAUuDjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-hozXGWkAUuDjZ.jpg",
+					"url": "https://t.co/sWrFvQhg0V",
+					"display_url": "pic.twitter.com/sWrFvQhg0V",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1146284089365991426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1301,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 762,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146281336749068300,
+					"id_str": "1146281336749068293",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D-hozXGWkAUuDjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-hozXGWkAUuDjZ.jpg",
+					"url": "https://t.co/sWrFvQhg0V",
+					"display_url": "pic.twitter.com/sWrFvQhg0V",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1146284089365991426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1301,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 762,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146281349642428400,
+					"id_str": "1146281349642428416",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ho0HIXoAAEnVH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ho0HIXoAAEnVH.jpg",
+					"url": "https://t.co/sWrFvQhg0V",
+					"display_url": "pic.twitter.com/sWrFvQhg0V",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1146284089365991426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1301,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 762,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀\n그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12805,
+			"friends_count": 165,
+			"listed_count": 262,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/608819430831738880/Qqfn7kpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1559108649",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[그린플러그드 동해 2019 타임테이블 발표]\n\n'그린플러그드 동해 2019' 타임테이블을 발표합니다!\n아티스트별 공연 시간과 사인회 참여 아티스트, \n티켓부스 및 게이트 오픈 시각을 확인하실 수 있습니다!\n\n✔티켓부스오픈 11:00\n✔게이트오픈 12:00\n\n타임테이블 크게보기👇\nhttps://t.co/JdnBM37ETc https://t.co/sWrFvQhg0V"
+	},
+	{
 		"created_at": "Tue Jul 02 12:08:34 +0000 2019",
 		"id": 1146027884626219000,
 		"id_str": "1146027884626219008",
