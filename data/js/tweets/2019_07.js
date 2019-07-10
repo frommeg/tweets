@@ -1,6 +1,900 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 10 08:17:19 +0000 2019",
+		"id": 1139919630221242400,
+		"id_str": "1148868792849592320",
+		"full_text": "#MusicandCityFestival #Tokyo #Seoul #live #뮤직앤씨티페스티벌 #womblive #womb #상상마당 #위아더나잇 #wearethenight #프롬 #fromm #노버시즈 #nobuses #dats #닷츠 #일본 #내한공연 #페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicandCityFestival",
+					"indices": [
+						0,
+						21
+					]
+				},
+				{
+					"text": "Tokyo",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "Seoul",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "뮤직앤씨티페스티벌",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "womblive",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "womb",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "위아더나잇",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "wearethenight",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "fromm",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "노버시즈",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "nobuses",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "dats",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "닷츠",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "일본",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139919423987281900,
+		"in_reply_to_status_id_str": "1139919423987281920",
+		"in_reply_to_user_id": 1139915510059921400,
+		"in_reply_to_user_id_str": "1139915510059921411",
+		"in_reply_to_screen_name": "AIEntertainmen1",
+		"user": {
+			"id": 1139915510059921400,
+			"id_str": "1139915510059921411",
+			"name": "Music and City Festival",
+			"screen_name": "AIEntertainmen1",
+			"location": "",
+			"description": "Music Festival",
+			"url": "https://t.co/JwFtMZPTLT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwFtMZPTLT",
+							"expanded_url": "http://music-and-city.com",
+							"display_url": "music-and-city.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7,
+			"friends_count": 13,
+			"listed_count": 0,
+			"created_at": "Sat Jun 15 15:20:10 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139917007678103552/Em2GLzLP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139917007678103552/Em2GLzLP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139915510059921411/1560612686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#MusicandCityFestival #Tokyo #Seoul #live #뮤직앤씨티페스티벌 #womblive #womb #상상마당 #위아더나잇 #wearethenight #프롬 #fromm #노버시즈 #nobuses #dats #닷츠 #일본 #내한공연 #페스티벌"
+	},
+	{
+		"created_at": "Wed Jul 10 08:17:14 +0000 2019",
+		"id": 1139919423987281900,
+		"id_str": "1148868771680927744",
+		"full_text": "Music and City Festival Vol.3\n2019/8/3 (Sat) PM 5:00\n@KT&amp;G 상상마당 라이브홀\n₩40,000\n⠀\n💡Line Up💡\n&lt;한국&gt;\nFROMM (프롬) / WE ARE THE NIGHT (위아더나잇)\n&lt;일본&gt;\nDATS (닷츠) / No buses (노버시즈)\n⠀\n티켓 오픈 : 2019/7/1 (월) 낮 12시\nhttps://t.co/wyOnXikYR5 https://t.co/PfM78xxWPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kt",
+					"name": "Katie Trogner",
+					"id": 1396750680,
+					"id_str": "1396750680",
+					"indices": [
+						53,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wyOnXikYR5",
+					"expanded_url": "http://www.ticketlink.co.kr",
+					"display_url": "ticketlink.co.kr",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139919412721414100,
+					"id_str": "1139919412721414144",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/D9HOqpPU8AAJwHo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9HOqpPU8AAJwHo.jpg",
+					"url": "https://t.co/PfM78xxWPj",
+					"display_url": "pic.twitter.com/PfM78xxWPj",
+					"expanded_url": "https://twitter.com/AIEntertainmen1/status/1139919423987281920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139919412721414100,
+					"id_str": "1139919412721414144",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/D9HOqpPU8AAJwHo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9HOqpPU8AAJwHo.jpg",
+					"url": "https://t.co/PfM78xxWPj",
+					"display_url": "pic.twitter.com/PfM78xxWPj",
+					"expanded_url": "https://twitter.com/AIEntertainmen1/status/1139919423987281920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139919412721401900,
+					"id_str": "1139919412721401856",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/D9HOqpPUwAAALO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9HOqpPUwAAALO2.jpg",
+					"url": "https://t.co/PfM78xxWPj",
+					"display_url": "pic.twitter.com/PfM78xxWPj",
+					"expanded_url": "https://twitter.com/AIEntertainmen1/status/1139919423987281920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1139915510059921400,
+			"id_str": "1139915510059921411",
+			"name": "Music and City Festival",
+			"screen_name": "AIEntertainmen1",
+			"location": "",
+			"description": "Music Festival",
+			"url": "https://t.co/JwFtMZPTLT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwFtMZPTLT",
+							"expanded_url": "http://music-and-city.com",
+							"display_url": "music-and-city.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7,
+			"friends_count": 13,
+			"listed_count": 0,
+			"created_at": "Sat Jun 15 15:20:10 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139917007678103552/Em2GLzLP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139917007678103552/Em2GLzLP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139915510059921411/1560612686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Music and City Festival Vol.3\n2019/8/3 (Sat) PM 5:00\n@KT&amp;G 상상마당 라이브홀\n₩40,000\n⠀\n💡Line Up💡\n&lt;한국&gt;\nFROMM (프롬) / WE ARE THE NIGHT (위아더나잇)\n&lt;일본&gt;\nDATS (닷츠) / No buses (노버시즈)\n⠀\n티켓 오픈 : 2019/7/1 (월) 낮 12시\nhttps://t.co/wyOnXikYR5 https://t.co/PfM78xxWPj"
+	},
+	{
+		"created_at": "Wed Jul 10 08:16:58 +0000 2019",
+		"id": 1142100196655939600,
+		"id_str": "1148868702340673536",
+		"full_text": "#MusicandCityFestival #Tokyo #Seoul #live #뮤직앤씨티페스티벌 #womblive #womb #상상마당 #위아더나잇 #wearethenight #프롬 #fromm #노버시즈 #nobuses #dats #닷츠 #일본 #내한공연 #페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicandCityFestival",
+					"indices": [
+						0,
+						21
+					]
+				},
+				{
+					"text": "Tokyo",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "Seoul",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "뮤직앤씨티페스티벌",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "womblive",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "womb",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "위아더나잇",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "wearethenight",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "fromm",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "노버시즈",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "nobuses",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "dats",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "닷츠",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "일본",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1142100056813649900,
+		"in_reply_to_status_id_str": "1142100056813649922",
+		"in_reply_to_user_id": 1139915510059921400,
+		"in_reply_to_user_id_str": "1139915510059921411",
+		"in_reply_to_screen_name": "AIEntertainmen1",
+		"user": {
+			"id": 1139915510059921400,
+			"id_str": "1139915510059921411",
+			"name": "Music and City Festival",
+			"screen_name": "AIEntertainmen1",
+			"location": "",
+			"description": "Music Festival",
+			"url": "https://t.co/JwFtMZPTLT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwFtMZPTLT",
+							"expanded_url": "http://music-and-city.com",
+							"display_url": "music-and-city.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7,
+			"friends_count": 13,
+			"listed_count": 0,
+			"created_at": "Sat Jun 15 15:20:10 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139917007678103552/Em2GLzLP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139917007678103552/Em2GLzLP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139915510059921411/1560612686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#MusicandCityFestival #Tokyo #Seoul #live #뮤직앤씨티페스티벌 #womblive #womb #상상마당 #위아더나잇 #wearethenight #프롬 #fromm #노버시즈 #nobuses #dats #닷츠 #일본 #내한공연 #페스티벌"
+	},
+	{
+		"created_at": "Wed Jul 10 08:16:37 +0000 2019",
+		"id": 1142100056813649900,
+		"id_str": "1148868617179557888",
+		"full_text": "Vol.3 서울공연 공식 트레일러 공개!!!\nMusic and City Festival Vol.3\n2019/8/3 (Sat) PM 5:00\nKT&amp;G 상상마당 라이브홀\n\n💡Line Up💡\n&lt;한국&gt;\nFROMM (프롬) / WE ARE THE NIGHT (위아더나잇)\n&lt;일본&gt;\nDATS (닷츠) / No buses (노버시즈)\n\n티켓 : ₩40,000\n2019년 7월 1일 (월) 낮 12시 오픈 - 티켓링크 https://t.co/EIlD815tkz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142099964249563100,
+					"id_str": "1142099964249563137",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142099964249563137/pu/img/URQzVWGFtD4zyR6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142099964249563137/pu/img/URQzVWGFtD4zyR6E.jpg",
+					"url": "https://t.co/EIlD815tkz",
+					"display_url": "pic.twitter.com/EIlD815tkz",
+					"expanded_url": "https://twitter.com/AIEntertainmen1/status/1142100056813649922/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142099964249563100,
+					"id_str": "1142099964249563137",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142099964249563137/pu/img/URQzVWGFtD4zyR6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142099964249563137/pu/img/URQzVWGFtD4zyR6E.jpg",
+					"url": "https://t.co/EIlD815tkz",
+					"display_url": "pic.twitter.com/EIlD815tkz",
+					"expanded_url": "https://twitter.com/AIEntertainmen1/status/1142100056813649922/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 59906,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142099964249563137/pu/vid/640x360/Gnvd2528xFr4HTTE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142099964249563137/pu/pl/oE3yE1_T3PIrT5Le.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142099964249563137/pu/vid/854x480/Cr-rrFIRIxmrdani.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142099964249563137/pu/vid/480x270/iqzUX-XFMHE6pHrX.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1139915510059921400,
+			"id_str": "1139915510059921411",
+			"name": "Music and City Festival",
+			"screen_name": "AIEntertainmen1",
+			"location": "",
+			"description": "Music Festival",
+			"url": "https://t.co/JwFtMZPTLT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JwFtMZPTLT",
+							"expanded_url": "http://music-and-city.com",
+							"display_url": "music-and-city.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7,
+			"friends_count": 13,
+			"listed_count": 0,
+			"created_at": "Sat Jun 15 15:20:10 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139917007678103552/Em2GLzLP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139917007678103552/Em2GLzLP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139915510059921411/1560612686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Vol.3 서울공연 공식 트레일러 공개!!!\nMusic and City Festival Vol.3\n2019/8/3 (Sat) PM 5:00\nKT&amp;G 상상마당 라이브홀\n\n💡Line Up💡\n&lt;한국&gt;\nFROMM (프롬) / WE ARE THE NIGHT (위아더나잇)\n&lt;일본&gt;\nDATS (닷츠) / No buses (노버시즈)\n\n티켓 : ₩40,000\n2019년 7월 1일 (월) 낮 12시 오픈 - 티켓링크 https://t.co/EIlD815tkz"
+	},
+	{
 		"created_at": "Mon Jul 08 11:46:17 +0000 2019",
 		"id": 1148196605977342000,
 		"id_str": "1148196605977341953",
