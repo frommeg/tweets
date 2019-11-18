@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 15:22:31 +0000 2019",
+		"id": 1196086219207131100,
+		"id_str": "1196086219207131136",
+		"full_text": "11월 19일 발매\n후추스 정규 2집 [너의 일부]\n1번 트랙 '처음 (with 프롬)'\n프롬(Fromm)이 참여했습니다.\n#프롬 #Fromm #후추스\n@bandhoochus @Frommeg https://t.co/h4NQJxdAWx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "후추스",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bandhoochus",
+					"name": "후추스",
+					"id": 1437288451,
+					"id_str": "1437288451",
+					"indices": [
+						85,
+						97
+					]
+				},
+				{
+					"screen_name": "Frommeg",
+					"name": "Fromm12",
+					"id": 584157489,
+					"id_str": "584157489",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h4NQJxdAWx",
+					"expanded_url": "https://twitter.com/bandhoochus/status/1196085475989053440",
+					"display_url": "twitter.com/bandhoochus/st…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 310,
+			"friends_count": 26,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1195993192530731000,
+		"quoted_status_id_str": "1195993192530731008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h4NQJxdAWx",
+			"expanded": "https://twitter.com/bandhoochus/status/1196085475989053440",
+			"display": "twitter.com/bandhoochus/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 17 09:12:52 +0000 2019",
+			"id": 1195993192530731000,
+			"id_str": "1195993192530731008",
+			"full_text": "11월 19일에 발매하는 '후추스' 의 정규 2집[너의 일부] 트랙리스트를 공개합니다!\n\n1. 처음 (with 프롬)\n2. 무한대\n3. 너의 일부 (with 애리)\n4. MYTH\n5. 잠꼬대\n6. 감귤농장\n7. 어떤 위로\n8. 눈빛\n9. 난 너의 절망이 아닌 (with 이선)\n10. 등목 https://t.co/umivxU5DZr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1195993181818515500,
+						"id_str": "1195993181818515457",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/EJkFdlQU8AE3rR7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJkFdlQU8AE3rR7.jpg",
+						"url": "https://t.co/umivxU5DZr",
+						"display_url": "pic.twitter.com/umivxU5DZr",
+						"expanded_url": "https://twitter.com/bandhoochus/status/1195993192530731008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 940,
+								"h": 888,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 888,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 642,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1195993181818515500,
+						"id_str": "1195993181818515457",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/EJkFdlQU8AE3rR7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJkFdlQU8AE3rR7.jpg",
+						"url": "https://t.co/umivxU5DZr",
+						"display_url": "pic.twitter.com/umivxU5DZr",
+						"expanded_url": "https://twitter.com/bandhoochus/status/1195993192530731008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 940,
+								"h": 888,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 888,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 642,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1437288451,
+				"id_str": "1437288451",
+				"name": "후추스",
+				"screen_name": "bandhoochus",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/MLPf0TYHM5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MLPf0TYHM5",
+								"expanded_url": "http://facebook.com/hoochus",
+								"display_url": "facebook.com/hoochus",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 282,
+				"friends_count": 143,
+				"listed_count": 6,
+				"created_at": "Sat May 18 03:08:41 +0000 2013",
+				"favourites_count": 279,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 920,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1193456125791748096/3yf102B1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193456125791748096/3yf102B1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1437288451/1573377091",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11월 19일 발매\n후추스 정규 2집 [너의 일부]\n1번 트랙 '처음 (with 프롬)'\n프롬(Fromm)이 참여했습니다.\n#프롬 #Fromm #후추스\n@bandhoochus @Frommeg https://t.co/h4NQJxdAWx"
+	},
+	{
 		"created_at": "Wed Nov 13 14:34:12 +0000 2019",
 		"id": 1194624506356256800,
 		"id_str": "1194624506356256768",
