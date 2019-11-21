@@ -1,6 +1,1371 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 11:47:37 +0000 2019",
+		"id": 1197461705837596700,
+		"id_str": "1197481690429415425",
+		"full_text": "후추스 2집 발매 기사났어!\nhttps://t.co/3wFRDw1tv8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3wFRDw1tv8",
+					"expanded_url": "http://www.topstarnews.net/news/articleView.html?idxno=697857",
+					"display_url": "topstarnews.net/news/articleVi…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1437288451,
+			"id_str": "1437288451",
+			"name": "후추스",
+			"screen_name": "bandhoochus",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/MLPf0TYHM5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MLPf0TYHM5",
+							"expanded_url": "http://facebook.com/hoochus",
+							"display_url": "facebook.com/hoochus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 144,
+			"listed_count": 6,
+			"created_at": "Sat May 18 03:08:41 +0000 2013",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193456125791748096/3yf102B1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193456125791748096/3yf102B1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1437288451/1573377091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "후추스 2집 발매 기사났어!\nhttps://t.co/3wFRDw1tv8"
+	},
+	{
+		"created_at": "Thu Nov 21 11:47:35 +0000 2019",
+		"id": 1197062746258280400,
+		"id_str": "1197481681617223680",
+		"full_text": "📢[REPORT] 후추스(Hoochus), 더욱 다채로운 사운드로 채워진 정규 2집 [너의 일부] 앨범 제작기\n\n오랜만에 고급진 팝음반으로 돌아온 후추스의 앨범에 대한 담백한 인터뷰와 앨범 제작과정을\n지금 바로 #지니매거진 에서 만나보세요!\n-\n✚ 지니매거진 바로가기 : https://t.co/p0PnUxyWz9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지니매거진",
+					"indices": [
+						118,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p0PnUxyWz9",
+					"expanded_url": "https://bit.ly/35jPpWS",
+					"display_url": "bit.ly/35jPpWS",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9806,
+			"friends_count": 2998,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢[REPORT] 후추스(Hoochus), 더욱 다채로운 사운드로 채워진 정규 2집 [너의 일부] 앨범 제작기\n\n오랜만에 고급진 팝음반으로 돌아온 후추스의 앨범에 대한 담백한 인터뷰와 앨범 제작과정을\n지금 바로 #지니매거진 에서 만나보세요!\n-\n✚ 지니매거진 바로가기 : https://t.co/p0PnUxyWz9"
+	},
+	{
+		"created_at": "Thu Nov 21 11:47:15 +0000 2019",
+		"id": 1196672232983953400,
+		"id_str": "1197481597110386688",
+		"full_text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n​\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UVTaXJC02B",
+					"expanded_url": "https://bit.ly/35e0loQ",
+					"display_url": "bit.ly/35e0loQ",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1196672225492922400,
+					"id_str": "1196672225492922368",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EJtvDIEU8AA-pff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJtvDIEU8AA-pff.jpg",
+					"url": "https://t.co/CWemuYWqLT",
+					"display_url": "pic.twitter.com/CWemuYWqLT",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1196672232983953409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196672225492922400,
+					"id_str": "1196672225492922368",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EJtvDIEU8AA-pff.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJtvDIEU8AA-pff.jpg",
+					"url": "https://t.co/CWemuYWqLT",
+					"display_url": "pic.twitter.com/CWemuYWqLT",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1196672232983953409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9806,
+			"friends_count": 2998,
+			"listed_count": 271,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082156071626498048/bj3gt08R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1483323275",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n​\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT"
+	},
+	{
+		"created_at": "Thu Nov 21 11:47:08 +0000 2019",
+		"id": 1196680159014703000,
+		"id_str": "1197481567368560640",
+		"full_text": "5년만의 앨범 2집 &lt;너의 일부&gt; 가 발매되었습니다. \n\n멜론 https://t.co/IS6BchHAA2\n지니 https://t.co/dIOYZdqXDF\n벅스 https://t.co/kz5ma19SYx\n바이브 https://t.co/k8FXAe7eOh\n소리바다 https://t.co/mETXd6ibTC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IS6BchHAA2",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10352971",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/dIOYZdqXDF",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81311351",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/kz5ma19SYx",
+					"expanded_url": "https://music.bugs.co.kr/album/20288928?wl_ref=list_ab_01_ar",
+					"display_url": "music.bugs.co.kr/album/20288928…",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/k8FXAe7eOh",
+					"expanded_url": "https://vibe.naver.com/album/3430985",
+					"display_url": "vibe.naver.com/album/3430985",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/mETXd6ibTC",
+					"expanded_url": "http://www.soribada.com/music/album/KA0107973",
+					"display_url": "soribada.com/music/album/KA…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1437288451,
+			"id_str": "1437288451",
+			"name": "후추스",
+			"screen_name": "bandhoochus",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/MLPf0TYHM5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MLPf0TYHM5",
+							"expanded_url": "http://facebook.com/hoochus",
+							"display_url": "facebook.com/hoochus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 144,
+			"listed_count": 6,
+			"created_at": "Sat May 18 03:08:41 +0000 2013",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193456125791748096/3yf102B1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193456125791748096/3yf102B1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1437288451/1573377091",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5년만의 앨범 2집 &lt;너의 일부&gt; 가 발매되었습니다. \n\n멜론 https://t.co/IS6BchHAA2\n지니 https://t.co/dIOYZdqXDF\n벅스 https://t.co/kz5ma19SYx\n바이브 https://t.co/k8FXAe7eOh\n소리바다 https://t.co/mETXd6ibTC"
+	},
+	{
+		"created_at": "Thu Nov 21 11:46:12 +0000 2019",
+		"id": 1197481334727270400,
+		"id_str": "1197481334727270401",
+		"full_text": "인스타그램 사진 링크가 변경되어 사진을 업로드 할 수 없습니다. 양해 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인스타그램 사진 링크가 변경되어 사진을 업로드 할 수 없습니다. 양해 부탁드립니다."
+	},
+	{
+		"created_at": "Thu Nov 21 11:02:07 +0000 2019",
+		"id": 1197470237731491800,
+		"id_str": "1197470237731491841",
+		"full_text": "【 #프롬인스타그램 】\n[2] 책제목에 무장해제.. #사랑하는미움들 #김사월 저서!! 잘읽을게요 🙏🏻🥰😚 april_sour\nhttps://t.co/Yidie6Qfhw https://t.co/GWcMSocTd3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "사랑하는미움들",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						38,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yidie6Qfhw",
+					"expanded_url": "https://www.instagram.com/p/B5H-3ckBwP7/",
+					"display_url": "instagram.com/p/B5H-3ckBwP7/",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1197470236221624300,
+					"id_str": "1197470236221624320",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ5E1dsX0AALP8F.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJ5E1dsX0AALP8F.png",
+					"url": "https://t.co/GWcMSocTd3",
+					"display_url": "pic.twitter.com/GWcMSocTd3",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1197470237731491841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197470236221624300,
+					"id_str": "1197470236221624320",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ5E1dsX0AALP8F.png",
+					"media_url_https": "https://pbs.twimg.com/media/EJ5E1dsX0AALP8F.png",
+					"url": "https://t.co/GWcMSocTd3",
+					"display_url": "pic.twitter.com/GWcMSocTd3",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1197470237731491841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #프롬인스타그램 】\n[2] 책제목에 무장해제.. #사랑하는미움들 #김사월 저서!! 잘읽을게요 🙏🏻🥰😚 april_sour\nhttps://t.co/Yidie6Qfhw https://t.co/GWcMSocTd3"
+	},
+	{
+		"created_at": "Thu Nov 21 07:38:08 +0000 2019",
+		"id": 1197418902902456300,
+		"id_str": "1197418902902456320",
+		"full_text": "【 #프롬뉴스 】\n'김정웅 원맨밴드' 후추스, 5년 만의 정규 2집 '너의 일부' 발매…프롬·애리·이선 참여\nhttps://t.co/KS47PPcCT2\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬뉴스",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						89,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KS47PPcCT2",
+					"expanded_url": "https://www.google.com/url?rct=j&sa=t&url=http://www.topstarnews.net/news/articleView.html%3Fidxno%3D697857&ct=ga&cd=CAIyHjA2MDdkMGYwOGZjOGY1ZWI6Y28ua3I6a286S1I6TA&usg=AFQjCNG62r1lFCYltMGGFA1TLxRDrIduSw",
+					"display_url": "google.com/url?rct=j&sa=t…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #프롬뉴스 】\n'김정웅 원맨밴드' 후추스, 5년 만의 정규 2집 '너의 일부' 발매…프롬·애리·이선 참여\nhttps://t.co/KS47PPcCT2\n#프롬 #Fromm"
+	},
+	{
+		"created_at": "Thu Nov 21 04:28:21 +0000 2019",
+		"id": 1197371144816468000,
+		"id_str": "1197371144816467968",
+		"full_text": "【 #프롬페이스북 】\nPhotos from Fromm's post\nhttps://t.co/MQd8Un03Zl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬페이스북",
+					"indices": [
+						2,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MQd8Un03Zl",
+					"expanded_url": "https://www.facebook.com/fromm12/photos/a.1635909516441818/2891514917547932/?type=3",
+					"display_url": "facebook.com/fromm12/photos…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【 #프롬페이스북 】\nPhotos from Fromm's post\nhttps://t.co/MQd8Un03Zl"
+	},
+	{
 		"created_at": "Wed Nov 20 10:27:41 +0000 2019",
 		"id": 1197099184538693600,
 		"id_str": "1197099184538693632",
