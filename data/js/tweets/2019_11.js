@@ -1,6 +1,3236 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 21:07:18 +0000 2019",
+		"id": 1197622537401884700,
+		"id_str": "1197622537401884672",
+		"full_text": "【 #Bugs 】 [정규] 산책 (2019.05.20) (03:00)\nhttps://t.co/IUQefFw8Zg\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IUQefFw8Zg",
+					"expanded_url": "https://music.bugs.co.kr/mv/510032",
+					"display_url": "music.bugs.co.kr/mv/510032",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 산책 (2019.05.20) (03:00)\nhttps://t.co/IUQefFw8Zg\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:17 +0000 2019",
+		"id": 1197622535996743700,
+		"id_str": "1197622535996743693",
+		"full_text": "【 #Bugs 】 [정규] 반딧불이 (2019.02.19) (04:02)\nhttps://t.co/piv0r58X3o\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						82,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/piv0r58X3o",
+					"expanded_url": "https://music.bugs.co.kr/mv/483470",
+					"display_url": "music.bugs.co.kr/mv/483470",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 반딧불이 (2019.02.19) (04:02)\nhttps://t.co/piv0r58X3o\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:17 +0000 2019",
+		"id": 1197622534365159400,
+		"id_str": "1197622534365159432",
+		"full_text": "【 #Bugs 】 [정규] 닿을 수 있다면 (드라마 열두밤 OST) (2018.12.05) (03:56)\nhttps://t.co/TYK66v4rCh\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TYK66v4rCh",
+					"expanded_url": "https://music.bugs.co.kr/mv/464291",
+					"display_url": "music.bugs.co.kr/mv/464291",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 닿을 수 있다면 (드라마 열두밤 OST) (2018.12.05) (03:56)\nhttps://t.co/TYK66v4rCh\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:17 +0000 2019",
+		"id": 1197622532733624300,
+		"id_str": "1197622532733624322",
+		"full_text": "【 #Bugs 】 [정규] 여름이 되어 (2018.11.26) (04:03)\nhttps://t.co/n25SVbCfrN\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						84,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n25SVbCfrN",
+					"expanded_url": "https://music.bugs.co.kr/mv/460450",
+					"display_url": "music.bugs.co.kr/mv/460450",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 여름이 되어 (2018.11.26) (04:03)\nhttps://t.co/n25SVbCfrN\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:16 +0000 2019",
+		"id": 1197622531253031000,
+		"id_str": "1197622531253030913",
+		"full_text": "【 #Bugs 】 [정규] 영원처럼 안아줘 (with 카더가든) (2018.11.06) (03:17)\nhttps://t.co/L2qubD0Fa6\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						98,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L2qubD0Fa6",
+					"expanded_url": "https://music.bugs.co.kr/mv/453110",
+					"display_url": "music.bugs.co.kr/mv/453110",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 영원처럼 안아줘 (with 카더가든) (2018.11.06) (03:17)\nhttps://t.co/L2qubD0Fa6\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:16 +0000 2019",
+		"id": 1197622529684377600,
+		"id_str": "1197622529684377600",
+		"full_text": "【 #Bugs 】 [정규] Fin (2017.05.31) (03:38)\nhttps://t.co/4sJBgGZnxy\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						81,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4sJBgGZnxy",
+					"expanded_url": "https://music.bugs.co.kr/mv/335271",
+					"display_url": "music.bugs.co.kr/mv/335271",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] Fin (2017.05.31) (03:38)\nhttps://t.co/4sJBgGZnxy\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:16 +0000 2019",
+		"id": 1197622528010788900,
+		"id_str": "1197622528010788870",
+		"full_text": "【 #Bugs 】 [정규] 봄은 겨울이 꾸는 꿈 (2017.05.31) (04:06)\nhttps://t.co/yBsrP8Asq5\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						89,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yBsrP8Asq5",
+					"expanded_url": "https://music.bugs.co.kr/mv/335270",
+					"display_url": "music.bugs.co.kr/mv/335270",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 봄은 겨울이 꾸는 꿈 (2017.05.31) (04:06)\nhttps://t.co/yBsrP8Asq5\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:15 +0000 2019",
+		"id": 1197622526622474200,
+		"id_str": "1197622526622474252",
+		"full_text": "【 #Bugs 】 [티저] 프롬 EP (Highlight MV Teaser) (2017.05.31) (02:05)\nhttps://t.co/zWSogNfcn4\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						105,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zWSogNfcn4",
+					"expanded_url": "https://music.bugs.co.kr/mv/334691",
+					"display_url": "music.bugs.co.kr/mv/334691",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [티저] 프롬 EP (Highlight MV Teaser) (2017.05.31) (02:05)\nhttps://t.co/zWSogNfcn4\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:15 +0000 2019",
+		"id": 1197622525313859600,
+		"id_str": "1197622525313859584",
+		"full_text": "【 #Bugs 】 [티저] Beautiful world (Teaser) (2017.05.15) (01:08)\nhttps://t.co/8JwYhEIrVb\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						102,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8JwYhEIrVb",
+					"expanded_url": "https://music.bugs.co.kr/mv/331770",
+					"display_url": "music.bugs.co.kr/mv/331770",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【 #Bugs 】 [티저] Beautiful world (Teaser) (2017.05.15) (01:08)\nhttps://t.co/8JwYhEIrVb\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:14 +0000 2019",
+		"id": 1197622523132813300,
+		"id_str": "1197622523132813324",
+		"full_text": "【 #Bugs 】 [정규] 서로의 조각 (With 기리보이) (2016.09.26) (03:44)\nhttps://t.co/mJzCRACvDJ\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						96,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mJzCRACvDJ",
+					"expanded_url": "https://music.bugs.co.kr/mv/290331",
+					"display_url": "music.bugs.co.kr/mv/290331",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 서로의 조각 (With 기리보이) (2016.09.26) (03:44)\nhttps://t.co/mJzCRACvDJ\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:14 +0000 2019",
+		"id": 1197622521266397200,
+		"id_str": "1197622521266397185",
+		"full_text": "【 #Bugs 】 [티저] 서로의 조각 (Teaser) (2016.09.26) (00:32)\nhttps://t.co/9fAcTEj4SM\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						93,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9fAcTEj4SM",
+					"expanded_url": "https://music.bugs.co.kr/mv/289950",
+					"display_url": "music.bugs.co.kr/mv/289950",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [티저] 서로의 조각 (Teaser) (2016.09.26) (00:32)\nhttps://t.co/9fAcTEj4SM\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:14 +0000 2019",
+		"id": 1197622519714455600,
+		"id_str": "1197622519714455566",
+		"full_text": "【 #Bugs 】 [정규] 반짝이던 안녕 (2016.06.14) (01:22)\nhttps://t.co/HiTeaACRoV\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						85,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HiTeaACRoV",
+					"expanded_url": "https://music.bugs.co.kr/mv/274210",
+					"display_url": "music.bugs.co.kr/mv/274210",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 반짝이던 안녕 (2016.06.14) (01:22)\nhttps://t.co/HiTeaACRoV\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:13 +0000 2019",
+		"id": 1197622517864767500,
+		"id_str": "1197622517864767489",
+		"full_text": "【 #Bugs 】 [정규] 달밤댄싱 (Single Mix) (2015.07.31) (03:21)\nhttps://t.co/dE9TJ3yZwa\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						95,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dE9TJ3yZwa",
+					"expanded_url": "https://music.bugs.co.kr/mv/220270",
+					"display_url": "music.bugs.co.kr/mv/220270",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 달밤댄싱 (Single Mix) (2015.07.31) (03:21)\nhttps://t.co/dE9TJ3yZwa\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:13 +0000 2019",
+		"id": 1197622516526780400,
+		"id_str": "1197622516526780416",
+		"full_text": "【 #Bugs 】 [정규] 찌잉 (2015.04.03) (03:00)\nhttps://t.co/R0ch0FEJKB\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R0ch0FEJKB",
+					"expanded_url": "https://music.bugs.co.kr/mv/197910",
+					"display_url": "music.bugs.co.kr/mv/197910",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 찌잉 (2015.04.03) (03:00)\nhttps://t.co/R0ch0FEJKB\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:12 +0000 2019",
+		"id": 1197622514878468000,
+		"id_str": "1197622514878468096",
+		"full_text": "【 #Bugs 】 [정규] 후유증 (feat. 민현 Of 뉴이스트) (2015.04.03) (04:25)\nhttps://t.co/uQdklzOSI6\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uQdklzOSI6",
+					"expanded_url": "https://music.bugs.co.kr/mv/196451",
+					"display_url": "music.bugs.co.kr/mv/196451",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 후유증 (feat. 민현 Of 뉴이스트) (2015.04.03) (04:25)\nhttps://t.co/uQdklzOSI6\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:12 +0000 2019",
+		"id": 1197622513293037600,
+		"id_str": "1197622513293037569",
+		"full_text": "【 #Bugs 】 [정규] Do You Mind If i Look At You (feat. Fromm) (2015.03.18) (03:58)\nhttps://t.co/U1StX0YK52\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						120,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U1StX0YK52",
+					"expanded_url": "https://music.bugs.co.kr/mv/193850",
+					"display_url": "music.bugs.co.kr/mv/193850",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【 #Bugs 】 [정규] Do You Mind If i Look At You (feat. Fromm) (2015.03.18) (03:58)\nhttps://t.co/U1StX0YK52\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
+		"created_at": "Thu Nov 21 21:07:12 +0000 2019",
+		"id": 1197622511837556700,
+		"id_str": "1197622511837556738",
+		"full_text": "【 #Bugs 】 [정규] 낮달 (2014.05.20) (03:27)\nhttps://t.co/VLspMSoHxF\n　\n#프롬 #Fromm #벅스 #영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bugs",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VLspMSoHxF",
+					"expanded_url": "https://music.bugs.co.kr/mv/156056",
+					"display_url": "music.bugs.co.kr/mv/156056",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 27,
+			"listed_count": 3,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Bugs 】 [정규] 낮달 (2014.05.20) (03:27)\nhttps://t.co/VLspMSoHxF\n　\n#프롬 #Fromm #벅스 #영상"
+	},
+	{
 		"created_at": "Thu Nov 21 11:47:37 +0000 2019",
 		"id": 1197461705837596700,
 		"id_str": "1197481690429415425",
@@ -238,7 +3468,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Thu Nov 21 11:47:15 +0000 2019",
 		"id": 1196672232983953400,
 		"id_str": "1197481597110386688",
-		"full_text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n​\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT",
+		"full_text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -456,7 +3686,7 @@ Grailbird.data.tweets_2019_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n​\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT"
+		"text": "🆕 New Release November 19\n-\n💿 후추스\n[너의 일부] '처음 (with 프롬)'\n\n‘너의 일부’ 에는 당신의 이야기가 담겨 있습니다.\n천천히 스며들어와 나의 전부가 되어버리고 떠난 뒤에도 여전히, 또 영원히 나의 일부로 남을 것들에 관한 노래들입니다.\n\n✚ 앨범 자세히 보기: https://t.co/UVTaXJC02B https://t.co/CWemuYWqLT"
 	},
 	{
 		"created_at": "Thu Nov 21 11:47:08 +0000 2019",
