@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 27 16:50:09 +0000 2019",
+		"id": 1210494107879035000,
+		"id_str": "1210603785640263681",
+		"full_text": "KT&amp;G 상상마당 홍대 12월 고객만족도 설문조사\n\n복합문화공간 상상마당 홍대에 대한\n여러분의 소중한 의견을 들려주세요\n▶ 설문참여 : https://t.co/zBnyfRXhyM\n▶ 12/27(수)까지 / 5명 추첨 선물 증정\n\n앞으로도 매달 설문조사를 통하여\n더욱 좋은 모습을 선보이겠습니다.\n많은 참여 부탁드립니다!♥ https://t.co/SP9OWDz5Q0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zBnyfRXhyM",
+					"expanded_url": "http://bit.ly/2ZtV6Qe",
+					"display_url": "bit.ly/2ZtV6Qe",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1210494096923431000,
+					"id_str": "1210494096923430913",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EMyJ97nUEAESdE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMyJ97nUEAESdE-.jpg",
+					"url": "https://t.co/SP9OWDz5Q0",
+					"display_url": "pic.twitter.com/SP9OWDz5Q0",
+					"expanded_url": "https://twitter.com/SSmadang/status/1210494107879034880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210494096923431000,
+					"id_str": "1210494096923430913",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EMyJ97nUEAESdE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMyJ97nUEAESdE-.jpg",
+					"url": "https://t.co/SP9OWDz5Q0",
+					"display_url": "pic.twitter.com/SP9OWDz5Q0",
+					"expanded_url": "https://twitter.com/SSmadang/status/1210494107879034880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19075,
+			"friends_count": 2001,
+			"listed_count": 320,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KT&amp;G 상상마당 홍대 12월 고객만족도 설문조사\n\n복합문화공간 상상마당 홍대에 대한\n여러분의 소중한 의견을 들려주세요\n▶ 설문참여 : https://t.co/zBnyfRXhyM\n▶ 12/27(수)까지 / 5명 추첨 선물 증정\n\n앞으로도 매달 설문조사를 통하여\n더욱 좋은 모습을 선보이겠습니다.\n많은 참여 부탁드립니다!♥ https://t.co/SP9OWDz5Q0"
+	},
+	{
 		"created_at": "Fri Dec 27 03:46:18 +0000 2019",
 		"id": 1210406525526839300,
 		"id_str": "1210406525526839302",
