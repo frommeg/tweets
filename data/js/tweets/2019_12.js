@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 30 12:59:18 +0000 2019",
+		"id": 1211632854859473000,
+		"id_str": "1211632854859472897",
+		"full_text": "【 #프롬인스타그램 】\n[3] 애플뮤직 2010년대 추천음악에도 선정되었다는 제보를 받아 올립니다 감사해요 애플뮤직💜\nhttps://t.co/XU7pP1cz64\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						94,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XU7pP1cz64",
+					"expanded_url": "https://www.instagram.com/p/B6sleXXBfWi/",
+					"display_url": "instagram.com/p/B6sleXXBfWi/",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 27,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #프롬인스타그램 】\n[3] 애플뮤직 2010년대 추천음악에도 선정되었다는 제보를 받아 올립니다 감사해요 애플뮤직💜\nhttps://t.co/XU7pP1cz64\n#프롬 #Fromm"
+	},
+	{
+		"created_at": "Mon Dec 30 12:29:17 +0000 2019",
+		"id": 1211625303711330300,
+		"id_str": "1211625303711330306",
+		"full_text": "【 #프롬인스타그램 】\n[4] 2020년 앞두고 2010년대 베스트앨범들로 프롬의 데뷔앨범 Arrival 을 선정해주셨어요 감사합니다 벅스!! 😊💜\nhttps://t.co/y14c5LqNLR\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y14c5LqNLR",
+					"expanded_url": "https://www.instagram.com/p/B6sjYnMBQNZ/",
+					"display_url": "instagram.com/p/B6sjYnMBQNZ/",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 프롬(Fromm) 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								129,
+								152
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								156,
+								179
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 27,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #프롬인스타그램 】\n[4] 2020년 앞두고 2010년대 베스트앨범들로 프롬의 데뷔앨범 Arrival 을 선정해주셨어요 감사합니다 벅스!! 😊💜\nhttps://t.co/y14c5LqNLR\n#프롬 #Fromm"
+	},
+	{
+		"created_at": "Mon Dec 30 04:47:45 +0000 2019",
+		"id": 1211483850183889000,
+		"id_str": "1211509151261573120",
+		"full_text": "#ROLLINGHALL #1415 #Chillin_Homie #Cold_Bay #Jiselle #MOON #RAVI #SAAY #W24 #Xydo #YB #가호 #공기남 #김수영 #다린 #램씨 #적재 #전진희 #조한결 #케빈오 #프롬 #롤링홀 #롤링25주년기념공연 #멜론티켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "Chillin_Homie",
+					"indices": [
+						19,
+						33
+					]
+				},
+				{
+					"text": "Cold_Bay",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"text": "Jiselle",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "MOON",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "RAVI",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "SAAY",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "W24",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "Xydo",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "YB",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "가호",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "공기남",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "김수영",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "다린",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "램씨",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "전진희",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "조한결",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "케빈오",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "롤링25주년기념공연",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1211483784886943700,
+		"in_reply_to_status_id_str": "1211483784886943745",
+		"in_reply_to_user_id": 2185812985,
+		"in_reply_to_user_id_str": "2185812985",
+		"in_reply_to_screen_name": "rollinghall",
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 789,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#ROLLINGHALL #1415 #Chillin_Homie #Cold_Bay #Jiselle #MOON #RAVI #SAAY #W24 #Xydo #YB #가호 #공기남 #김수영 #다린 #램씨 #적재 #전진희 #조한결 #케빈오 #프롬 #롤링홀 #롤링25주년기념공연 #멜론티켓"
+	},
+	{
 		"created_at": "Fri Dec 27 16:50:09 +0000 2019",
 		"id": 1210494107879035000,
 		"id_str": "1210603785640263681",
