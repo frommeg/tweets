@@ -1,6 +1,915 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 15:09:46 +0000 2019",
+		"id": 1212027703622111200,
+		"id_str": "1212028078081200129",
+		"full_text": "2019년도 롤링홀을 사랑해주시는 여러분 덕분에 행복했습니다.\n2020년 새해 복 많이 받으시고, 롤링홀도 쭉 많은 사랑 부탁드립니다🙇🏻‍♀️🙇🏻‍♂️\n\n#2019bestnine #Rollinghall #롤링홀 #2020 https://t.co/yNFGLFTGPF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2019bestnine",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"text": "Rollinghall",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						113,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212027690812706800,
+					"id_str": "1212027690812706817",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ENH8w2DUEAEKWoB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENH8w2DUEAEKWoB.jpg",
+					"url": "https://t.co/yNFGLFTGPF",
+					"display_url": "pic.twitter.com/yNFGLFTGPF",
+					"expanded_url": "https://twitter.com/rollinghall/status/1212027703622111232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 339,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 339,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 288,
+									"h": 64,
+									"w": 64
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 339,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212027690812706800,
+					"id_str": "1212027690812706817",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ENH8w2DUEAEKWoB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENH8w2DUEAEKWoB.jpg",
+					"url": "https://t.co/yNFGLFTGPF",
+					"display_url": "pic.twitter.com/yNFGLFTGPF",
+					"expanded_url": "https://twitter.com/rollinghall/status/1212027703622111232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 339,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 339,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 351,
+									"y": 288,
+									"h": 64,
+									"w": 64
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 339,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212027690816983000,
+					"id_str": "1212027690816983040",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ENH8w2EVUAAvSMK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENH8w2EVUAAvSMK.jpg",
+					"url": "https://t.co/yNFGLFTGPF",
+					"display_url": "pic.twitter.com/yNFGLFTGPF",
+					"expanded_url": "https://twitter.com/rollinghall/status/1212027703622111232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 472,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 303,
+									"y": 687,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 132,
+									"y": 850,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 558,
+									"y": 515,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 472,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 303,
+									"y": 687,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 132,
+									"y": 850,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 558,
+									"y": 515,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 313,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 201,
+									"y": 456,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 87,
+									"y": 564,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 370,
+									"y": 341,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 334,
+									"y": 472,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 303,
+									"y": 687,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 132,
+									"y": 850,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 558,
+									"y": 515,
+									"h": 78,
+									"w": 78
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2185812985,
+			"id_str": "2185812985",
+			"name": "롤링홀",
+			"screen_name": "rollinghall",
+			"location": "서울시 마포구 서교동 402-22 B1",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다.\n👇🏻👇🏻멜론티켓 롤링홀 공연 바로가기.\nhttps://t.co/iP5dSLN5zf",
+			"url": "https://t.co/qVzPUzUTxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzPUzUTxK",
+							"expanded_url": "http://www.rollinghall.co.kr",
+							"display_url": "rollinghall.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iP5dSLN5zf",
+							"expanded_url": "http://tuney.kr/lNFWyb",
+							"display_url": "tuney.kr/lNFWyb",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3242,
+			"friends_count": 789,
+			"listed_count": 43,
+			"created_at": "Sun Nov 10 07:11:11 +0000 2013",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198865457228345344/vzXWi8vq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185812985/1574666774",
+			"profile_link_color": "D92129",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019년도 롤링홀을 사랑해주시는 여러분 덕분에 행복했습니다.\n2020년 새해 복 많이 받으시고, 롤링홀도 쭉 많은 사랑 부탁드립니다🙇🏻‍♀️🙇🏻‍♂️\n\n#2019bestnine #Rollinghall #롤링홀 #2020 https://t.co/yNFGLFTGPF"
+	},
+	{
+		"created_at": "Tue Dec 31 14:51:50 +0000 2019",
+		"id": 1212023562543886300,
+		"id_str": "1212023562543886336",
+		"full_text": "【 #프롬인스타그램 】\n올해도 진심으로 감사했습니다. 다들 건강하고 내년에도 원하는 모든 것들에 가까워지는 한 해가 되시길 기도할게요 내년에 봐요! ⠀ 2019.12.31 프롬드림 (4/4)\n\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212023560031498200,
+		"in_reply_to_status_id_str": "1212023560031498240",
+		"in_reply_to_user_id": 2202738804,
+		"in_reply_to_user_id_str": "2202738804",
+		"in_reply_to_screen_name": "Fromm_Fancafe",
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								24,
+								47
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								102,
+								125
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								130,
+								153
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								157,
+								180
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 27,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "【 #프롬인스타그램 】\n올해도 진심으로 감사했습니다. 다들 건강하고 내년에도 원하는 모든 것들에 가까워지는 한 해가 되시길 기도할게요 내년에 봐요! ⠀ 2019.12.31 프롬드림 (4/4)\n\n#프롬 #Fromm"
+	},
+	{
+		"created_at": "Tue Dec 31 14:51:49 +0000 2019",
+		"id": 1212023560031498200,
+		"id_str": "1212023560031498240",
+		"full_text": "【 #프롬인스타그램 】\n늘 모자란 제가 뮤지션이란 이름으로 살 수 있도록 한결같이 응원해주시는 모든 분들께 감사해요. 지금처럼 적당한 온기를 유지하며 그저 매일 제가 할 수 있는 것을 하려고 합니다 가능하면 최선을 다해서요. (3/4)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212023556860571600,
+		"in_reply_to_status_id_str": "1212023556860571649",
+		"in_reply_to_user_id": 2202738804,
+		"in_reply_to_user_id_str": "2202738804",
+		"in_reply_to_screen_name": "Fromm_Fancafe",
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								24,
+								47
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								102,
+								125
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								130,
+								153
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								157,
+								180
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 27,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "【 #프롬인스타그램 】\n늘 모자란 제가 뮤지션이란 이름으로 살 수 있도록 한결같이 응원해주시는 모든 분들께 감사해요. 지금처럼 적당한 온기를 유지하며 그저 매일 제가 할 수 있는 것을 하려고 합니다 가능하면 최선을 다해서요. (3/4)"
+	},
+	{
+		"created_at": "Tue Dec 31 14:51:48 +0000 2019",
+		"id": 1212023556860571600,
+		"id_str": "1212023556860571649",
+		"full_text": "【 #프롬인스타그램 】\n변화는 가랑비와 같아서 돌아보면 나조차 낯선 매일이지만 처음 꿈속으로 내딛던 설레던 발걸음을 잊지 말자고 다시 한번 다짐해 봅니다. 내년에는 제가 제 음악의 주인이 되기 위해 해야할 숙제들이 남아있고 또 새로운 마음으로 작업할 노래들이 저를 기다리고 있겠죠. (2/4)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1212023554566287400,
+		"in_reply_to_status_id_str": "1212023554566287362",
+		"in_reply_to_user_id": 2202738804,
+		"in_reply_to_user_id_str": "2202738804",
+		"in_reply_to_screen_name": "Fromm_Fancafe",
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페\nhttps://t.co/PpLCrjIH7p\n\n[공식]\n트위터 @Frommeg\n페이스북 https://t.co/0zQF0hUdie\n인스타그램 https://t.co/gzqlcz3Cdx\n유튜브 https://t.co/SoRgUCTjtF\n직캠 https://t.co/fF7J3ggg5Y",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PpLCrjIH7p",
+							"expanded_url": "http://frommeg.com",
+							"display_url": "frommeg.com",
+							"indices": [
+								24,
+								47
+							]
+						},
+						{
+							"url": "https://t.co/0zQF0hUdie",
+							"expanded_url": "http://facebook.com/fromm12",
+							"display_url": "facebook.com/fromm12",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/gzqlcz3Cdx",
+							"expanded_url": "http://instagram.com/frommeg",
+							"display_url": "instagram.com/frommeg",
+							"indices": [
+								102,
+								125
+							]
+						},
+						{
+							"url": "https://t.co/SoRgUCTjtF",
+							"expanded_url": "http://youtube.com/user/pparful",
+							"display_url": "youtube.com/user/pparful",
+							"indices": [
+								130,
+								153
+							]
+						},
+						{
+							"url": "https://t.co/fF7J3ggg5Y",
+							"expanded_url": "http://fancam.frommeg.com",
+							"display_url": "fancam.frommeg.com",
+							"indices": [
+								157,
+								180
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 27,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "【 #프롬인스타그램 】\n변화는 가랑비와 같아서 돌아보면 나조차 낯선 매일이지만 처음 꿈속으로 내딛던 설레던 발걸음을 잊지 말자고 다시 한번 다짐해 봅니다. 내년에는 제가 제 음악의 주인이 되기 위해 해야할 숙제들이 남아있고 또 새로운 마음으로 작업할 노래들이 저를 기다리고 있겠죠. (2/4)"
+	},
+	{
 		"created_at": "Mon Dec 30 12:59:18 +0000 2019",
 		"id": 1211632854859473000,
 		"id_str": "1211632854859472897",
