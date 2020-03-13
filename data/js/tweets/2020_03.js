@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 12:17:12 +0000 2020",
+		"id": 1238389518249504800,
+		"id_str": "1238438963863412737",
+		"full_text": "그린플러그드를 사랑해주시는 모든 분들이 안전과 건강을 지켜내시길, 하루빨리 아무런 걱정 없이 따뜻한 5월의 봄날을 즐길 수 있는 날이 오길 희망합니다. https://t.co/7k4o5IHKBv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238389484611195000,
+					"id_str": "1238389484611194880",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ES-krMvUUAAdcEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES-krMvUUAAdcEo.jpg",
+					"url": "https://t.co/7k4o5IHKBv",
+					"display_url": "pic.twitter.com/7k4o5IHKBv",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1238389518249504768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238389484611195000,
+					"id_str": "1238389484611194880",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ES-krMvUUAAdcEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES-krMvUUAAdcEo.jpg",
+					"url": "https://t.co/7k4o5IHKBv",
+					"display_url": "pic.twitter.com/7k4o5IHKBv",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1238389518249504768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238389493092077600,
+					"id_str": "1238389493092077568",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ES-krsVUUAA37te.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES-krsVUUAA37te.jpg",
+					"url": "https://t.co/7k4o5IHKBv",
+					"display_url": "pic.twitter.com/7k4o5IHKBv",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1238389518249504768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238389501556174800,
+					"id_str": "1238389501556174850",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ES-ksL3UMAI43af.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES-ksL3UMAI43af.jpg",
+					"url": "https://t.co/7k4o5IHKBv",
+					"display_url": "pic.twitter.com/7k4o5IHKBv",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1238389518249504768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238389511135957000,
+					"id_str": "1238389511135956993",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/ES-ksvjUEAEJAR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES-ksvjUEAEJAR3.jpg",
+					"url": "https://t.co/7k4o5IHKBv",
+					"display_url": "pic.twitter.com/7k4o5IHKBv",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1238389518249504768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12317,
+			"friends_count": 165,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그린플러그드를 사랑해주시는 모든 분들이 안전과 건강을 지켜내시길, 하루빨리 아무런 걱정 없이 따뜻한 5월의 봄날을 즐길 수 있는 날이 오길 희망합니다. https://t.co/7k4o5IHKBv"
+	},
+	{
 		"created_at": "Thu Mar 12 10:17:09 +0000 2020",
 		"id": 1238046364212306000,
 		"id_str": "1238046364212305921",
