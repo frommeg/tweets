@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 10:23:11 +0000 2020",
+		"id": 1239416880411996200,
+		"id_str": "1239497431626080256",
+		"full_text": "[‘그린플러그드 서울 2020’ 3차라인업 발표｜일반티켓 오픈]\n\n아직 조금은 쌀쌀한 이른 봄, 조금은 조심스럽게 그린플러그드 서울 2020의 소식을 전합니다. 곧 우리를 찾아올 따뜻한 봄날의 소식이 여러분께 조금이나마 위로와 응원이 되길 바랍니다.\n\n👉예매 https://t.co/ZgesCZ07KJ https://t.co/kZuZ0sIFtb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZgesCZ07KJ",
+					"expanded_url": "https://www.gpsfestival.com/tickets",
+					"display_url": "gpsfestival.com/tickets",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239415448715714600,
+					"id_str": "1239415448715714561",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ETNJyK3U4AEVvtm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETNJyK3U4AEVvtm.jpg",
+					"url": "https://t.co/kZuZ0sIFtb",
+					"display_url": "pic.twitter.com/kZuZ0sIFtb",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239416880411996160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239415448715714600,
+					"id_str": "1239415448715714561",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ETNJyK3U4AEVvtm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETNJyK3U4AEVvtm.jpg",
+					"url": "https://t.co/kZuZ0sIFtb",
+					"display_url": "pic.twitter.com/kZuZ0sIFtb",
+					"expanded_url": "https://twitter.com/GREENPLUGGED/status/1239416880411996160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351905,
+			"id_str": "116351905",
+			"name": "그린플러그드 페스티벌",
+			"screen_name": "GREENPLUGGED",
+			"location": "",
+			"description": "그린플러그드 페스티벌 (서울/동해/경주) 공식 트위터입니다. 😀 그린플러그드 페스티벌 소식을 가장 먼저 받아보세요!🌿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12309,
+			"friends_count": 164,
+			"listed_count": 254,
+			"created_at": "Mon Feb 22 04:25:21 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "48AA43",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211528608860164096/qDNIAAry_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351905/1577682098",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "259C1F",
+			"profile_sidebar_fill_color": "CCEFFF",
+			"profile_text_color": "48AA43",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[‘그린플러그드 서울 2020’ 3차라인업 발표｜일반티켓 오픈]\n\n아직 조금은 쌀쌀한 이른 봄, 조금은 조심스럽게 그린플러그드 서울 2020의 소식을 전합니다. 곧 우리를 찾아올 따뜻한 봄날의 소식이 여러분께 조금이나마 위로와 응원이 되길 바랍니다.\n\n👉예매 https://t.co/ZgesCZ07KJ https://t.co/kZuZ0sIFtb"
+	},
+	{
 		"created_at": "Fri Mar 13 12:17:12 +0000 2020",
 		"id": 1238389518249504800,
 		"id_str": "1238438963863412737",
