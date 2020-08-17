@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 17 06:49:15 +0000 2020",
+		"id": 1295251327505830000,
+		"id_str": "1295251327505829889",
+		"full_text": "【 #Melon_Ticket 】\n프롬 단독 콘서트［FROMM Sunset Island］ at 백암아트홀 (2020.09.12 - 2020.09.12)\nhttps://t.co/PVG22xa6PO\n　\n#프롬 #Fromm #이유진\n#멜론티켓 #공연 #공연안내 https://t.co/N7wPocIhgU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon_Ticket",
+					"indices": [
+						2,
+						15
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "공연안내",
+					"indices": [
+						136,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PVG22xa6PO",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=205438",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295251326419570700,
+					"id_str": "1295251326419570688",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EfmoOAYXkAAV1Cb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfmoOAYXkAAV1Cb.jpg",
+					"url": "https://t.co/N7wPocIhgU",
+					"display_url": "pic.twitter.com/N7wPocIhgU",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1295251327505829889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295251326419570700,
+					"id_str": "1295251326419570688",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EfmoOAYXkAAV1Cb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfmoOAYXkAAV1Cb.jpg",
+					"url": "https://t.co/N7wPocIhgU",
+					"display_url": "pic.twitter.com/N7wPocIhgU",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1295251327505829889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Melon_Ticket 】\n프롬 단독 콘서트［FROMM Sunset Island］ at 백암아트홀 (2020.09.12 - 2020.09.12)\nhttps://t.co/PVG22xa6PO\n　\n#프롬 #Fromm #이유진\n#멜론티켓 #공연 #공연안내 https://t.co/N7wPocIhgU"
+	},
+	{
 		"created_at": "Thu Aug 13 13:55:22 +0000 2020",
 		"id": 1293909011696193500,
 		"id_str": "1293909011696193538",
