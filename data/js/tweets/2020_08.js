@@ -1,6 +1,1141 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 25 19:09:34 +0000 2020",
+		"id": 1298336737983373300,
+		"id_str": "1298336737983373312",
+		"full_text": "【 #NAVER_MUSIC 】\n프롬의 봄 뮤직&amp;토크 스테이지 (2020.04.26 ~ 2020.04.26) at KB아트홀\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/77bE4KqvUH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAVER_MUSIC",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "네이버뮤직",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						121,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PNR3U9swZ2",
+					"expanded_url": "http://music.naver.com/artist/play.nhn?artistId=171416",
+					"display_url": "music.naver.com/artist/play.nh…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1298336737039614000,
+					"id_str": "1298336737039613960",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeYioWAAg0Bb2.png",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeYioWAAg0Bb2.png",
+					"url": "https://t.co/77bE4KqvUH",
+					"display_url": "pic.twitter.com/77bE4KqvUH",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336737983373312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298336737039614000,
+					"id_str": "1298336737039613960",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeYioWAAg0Bb2.png",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeYioWAAg0Bb2.png",
+					"url": "https://t.co/77bE4KqvUH",
+					"display_url": "pic.twitter.com/77bE4KqvUH",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336737983373312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #NAVER_MUSIC 】\n프롬의 봄 뮤직&amp;토크 스테이지 (2020.04.26 ~ 2020.04.26) at KB아트홀\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/77bE4KqvUH"
+	},
+	{
+		"created_at": "Tue Aug 25 19:09:32 +0000 2020",
+		"id": 1298336726012833800,
+		"id_str": "1298336726012833792",
+		"full_text": "【 #NAVER_MUSIC 】\n어떤 이야기를 들려드릴까요? In 서울 Ep. 8 프롬 (2020.02.22 ~ 2020.02.22) at 서강대학교 메리홀 대극장\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/mvDA4c8Gmz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAVER_MUSIC",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "네이버뮤직",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						139,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PNR3U9swZ2",
+					"expanded_url": "http://music.naver.com/artist/play.nhn?artistId=171416",
+					"display_url": "music.naver.com/artist/play.nh…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1298336724859461600,
+					"id_str": "1298336724859461633",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeX1QXoAEOVk4.png",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeX1QXoAEOVk4.png",
+					"url": "https://t.co/mvDA4c8Gmz",
+					"display_url": "pic.twitter.com/mvDA4c8Gmz",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336726012833792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298336724859461600,
+					"id_str": "1298336724859461633",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeX1QXoAEOVk4.png",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeX1QXoAEOVk4.png",
+					"url": "https://t.co/mvDA4c8Gmz",
+					"display_url": "pic.twitter.com/mvDA4c8Gmz",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336726012833792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #NAVER_MUSIC 】\n어떤 이야기를 들려드릴까요? In 서울 Ep. 8 프롬 (2020.02.22 ~ 2020.02.22) at 서강대학교 메리홀 대극장\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/mvDA4c8Gmz"
+	},
+	{
+		"created_at": "Tue Aug 25 19:09:28 +0000 2020",
+		"id": 1298336712570163200,
+		"id_str": "1298336712570163201",
+		"full_text": "【 #NAVER_MUSIC 】\n롤링 25주년 기념 공연 vol.6 프롬&amp;1415 (2020.01.19 ~ 2020.01.19) at 홍대 롤링홀\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/W91T4vfAv1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAVER_MUSIC",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "네이버뮤직",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						133,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PNR3U9swZ2",
+					"expanded_url": "http://music.naver.com/artist/play.nhn?artistId=171416",
+					"display_url": "music.naver.com/artist/play.nh…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1298336711462793200,
+					"id_str": "1298336711462793218",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeXDWWsAIbQGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeXDWWsAIbQGo.jpg",
+					"url": "https://t.co/W91T4vfAv1",
+					"display_url": "pic.twitter.com/W91T4vfAv1",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336712570163201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 113,
+							"h": 113,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298336711462793200,
+					"id_str": "1298336711462793218",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeXDWWsAIbQGo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeXDWWsAIbQGo.jpg",
+					"url": "https://t.co/W91T4vfAv1",
+					"display_url": "pic.twitter.com/W91T4vfAv1",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336712570163201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 113,
+							"h": 113,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #NAVER_MUSIC 】\n롤링 25주년 기념 공연 vol.6 프롬&amp;1415 (2020.01.19 ~ 2020.01.19) at 홍대 롤링홀\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/W91T4vfAv1"
+	},
+	{
+		"created_at": "Tue Aug 25 19:09:26 +0000 2020",
+		"id": 1298336702277333000,
+		"id_str": "1298336702277332994",
+		"full_text": "【 #NAVER_MUSIC 】\n프롬 단독 콘서트 (2019.11.30 ~ 2019.11.30) at KT&amp;G 상상마당 라이브홀\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/GScKwAULqa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAVER_MUSIC",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "네이버뮤직",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						123,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PNR3U9swZ2",
+					"expanded_url": "http://music.naver.com/artist/play.nhn?artistId=171416",
+					"display_url": "music.naver.com/artist/play.nh…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1298336701295792000,
+					"id_str": "1298336701295792130",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeWdeWkAIw-gn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeWdeWkAIw-gn.png",
+					"url": "https://t.co/GScKwAULqa",
+					"display_url": "pic.twitter.com/GScKwAULqa",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336702277332994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298336701295792000,
+					"id_str": "1298336701295792130",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeWdeWkAIw-gn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeWdeWkAIw-gn.png",
+					"url": "https://t.co/GScKwAULqa",
+					"display_url": "pic.twitter.com/GScKwAULqa",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336702277332994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 112,
+							"h": 112,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 112,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #NAVER_MUSIC 】\n프롬 단독 콘서트 (2019.11.30 ~ 2019.11.30) at KT&amp;G 상상마당 라이브홀\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/GScKwAULqa"
+	},
+	{
+		"created_at": "Tue Aug 25 19:09:23 +0000 2020",
+		"id": 1298336688893296600,
+		"id_str": "1298336688893296640",
+		"full_text": "【 #NAVER_MUSIC 】\n청춘아레나 2019 (2019.10.05 ~ 2019.10.06) at 인천문학경기장 주경기장\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/qhwGjlLU0O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAVER_MUSIC",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "네이버뮤직",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						118,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PNR3U9swZ2",
+					"expanded_url": "http://music.naver.com/artist/play.nhn?artistId=171416",
+					"display_url": "music.naver.com/artist/play.nh…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1298336688075354000,
+					"id_str": "1298336688075354117",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeVsOWsAUsd5N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeVsOWsAUsd5N.jpg",
+					"url": "https://t.co/qhwGjlLU0O",
+					"display_url": "pic.twitter.com/qhwGjlLU0O",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336688893296640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 113,
+							"h": 113,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298336688075354000,
+					"id_str": "1298336688075354117",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EgSeVsOWsAUsd5N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgSeVsOWsAUsd5N.jpg",
+					"url": "https://t.co/qhwGjlLU0O",
+					"display_url": "pic.twitter.com/qhwGjlLU0O",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1298336688893296640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 113,
+							"h": 113,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 113,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #NAVER_MUSIC 】\n청춘아레나 2019 (2019.10.05 ~ 2019.10.06) at 인천문학경기장 주경기장\nhttps://t.co/PNR3U9swZ2\n\n#프롬 #Fromm #이유진\n#네이버뮤직 #공연 https://t.co/qhwGjlLU0O"
+	},
+	{
 		"created_at": "Tue Aug 25 05:51:05 +0000 2020",
 		"id": 1298135791986671600,
 		"id_str": "1298135791986671618",
