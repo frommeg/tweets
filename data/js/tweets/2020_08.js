@@ -1,6 +1,969 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 29 07:06:17 +0000 2020",
+		"id": 1299604268903731200,
+		"id_str": "1299604268903731200",
+		"full_text": "【 #Melon 】\n프롬신곡 \"ALIENS (With 김필)\" M/V티져! (00:43)\nhttps://t.co/BmTjqLW8Pm\n\n#프롬 #Fromm #이유진\n#멜론 #비디오 #멜론비디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						2,
+						8
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "이유진",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "멜론비디오",
+					"indices": [
+						100,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BmTjqLW8Pm",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50225359&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #Melon 】\n프롬신곡 \"ALIENS (With 김필)\" M/V티져! (00:43)\nhttps://t.co/BmTjqLW8Pm\n\n#프롬 #Fromm #이유진\n#멜론 #비디오 #멜론비디오"
+	},
+	{
+		"created_at": "Sat Aug 29 06:51:17 +0000 2020",
+		"id": 1299600491345834000,
+		"id_str": "1299600491345833985",
+		"full_text": "【 #프롬페이스북 】\nFromm updated their cover photo.\nhttps://t.co/d5TVnaYwS3\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬페이스북",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						73,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d5TVnaYwS3",
+					"expanded_url": "https://www.facebook.com/fromm12/photos/a.362835423749240/3624181534281263/",
+					"display_url": "facebook.com/fromm12/photos…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【 #프롬페이스북 】\nFromm updated their cover photo.\nhttps://t.co/d5TVnaYwS3\n#프롬 #Fromm"
+	},
+	{
+		"created_at": "Sat Aug 29 06:51:16 +0000 2020",
+		"id": 1299600490062401500,
+		"id_str": "1299600490062401536",
+		"full_text": "【 #프롬페이스북 】\nFromm updated their profile picture.\nhttps://t.co/WiE9PoIurz\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬페이스북",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WiE9PoIurz",
+					"expanded_url": "https://www.facebook.com/fromm12/photos/a.362828867083229/3624172940948789/",
+					"display_url": "facebook.com/fromm12/photos…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "【 #프롬페이스북 】\nFromm updated their profile picture.\nhttps://t.co/WiE9PoIurz\n#프롬 #Fromm"
+	},
+	{
+		"created_at": "Sat Aug 29 06:51:16 +0000 2020",
+		"id": 1299600488908890000,
+		"id_str": "1299600488908890114",
+		"full_text": "【 #프롬페이스북 】\n9월1일 발매될 셀로판 앨범의 타이틀곡 ALIENS (With...\nhttps://t.co/Yih0JuDEvQ\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬페이스북",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yih0JuDEvQ",
+					"expanded_url": "https://www.facebook.com/fromm12/posts/3624164494282967",
+					"display_url": "facebook.com/fromm12/posts/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #프롬페이스북 】\n9월1일 발매될 셀로판 앨범의 타이틀곡 ALIENS (With...\nhttps://t.co/Yih0JuDEvQ\n#프롬 #Fromm"
+	},
+	{
+		"created_at": "Sat Aug 29 04:03:10 +0000 2020",
+		"id": 1299558186144465000,
+		"id_str": "1299558186144464897",
+		"full_text": "【 #미러볼뮤직 유튜브 】\n[Teaser] 프롬 (Fromm) - ALIENS (With 김필)\nhttps://t.co/Mku4G6O4eE\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						2,
+						8
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mku4G6O4eE",
+					"expanded_url": "https://www.youtube.com/watch?v=_tF68_VLYQU",
+					"display_url": "youtube.com/watch?v=_tF68_…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #미러볼뮤직 유튜브 】\n[Teaser] 프롬 (Fromm) - ALIENS (With 김필)\nhttps://t.co/Mku4G6O4eE\n#프롬 #Fromm"
+	},
+	{
+		"created_at": "Sat Aug 29 03:51:15 +0000 2020",
+		"id": 1299555186118144000,
+		"id_str": "1299555186118144000",
+		"full_text": "【 #프롬페이스북 】\nM҉V҉ T҉e҉a҉s҉e҉r҉ O҉p҉e҉n҉!!...\nhttps://t.co/aUTYmkt84i\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬페이스북",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						72,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aUTYmkt84i",
+					"expanded_url": "https://www.facebook.com/fromm12/videos/319495122486588/",
+					"display_url": "facebook.com/fromm12/videos…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "【 #프롬페이스북 】\nM҉V҉ T҉e҉a҉s҉e҉r҉ O҉p҉e҉n҉!!...\nhttps://t.co/aUTYmkt84i\n#프롬 #Fromm"
+	},
+	{
+		"created_at": "Sat Aug 29 03:46:11 +0000 2020",
+		"id": 1299553909103620000,
+		"id_str": "1299553909103620097",
+		"full_text": "【 #프롬인스타그램 】\nVideo: M҉V҉ T҉e҉a҉s҉e҉r҉ O҉p҉e҉n҉!! ℝ𝕖𝕞𝕖𝕞𝕓𝕖𝕣 𝟘𝟡.𝟘𝟙 𝟙𝟚ℙ𝕄 #프롬 #셀로판 #Aliens #풀버전을기대해🥰 @tezodonlee @tjoffkoongstudios\nhttps://t.co/VjqjMvi0LY\n#프롬 #Fromm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬인스타그램",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "셀로판",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "Aliens",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "풀버전을기대해",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						155,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tezodonlee",
+					"name": "Tezo Don Lee",
+					"id": 2695535894,
+					"id_str": "2695535894",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VjqjMvi0LY",
+					"expanded_url": "https://www.instagram.com/p/CEdRnx7B5r-/",
+					"display_url": "instagram.com/p/CEdRnx7B5r-/",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 26,
+			"listed_count": 4,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "vi",
+		"text": "【 #프롬인스타그램 】\nVideo: M҉V҉ T҉e҉a҉s҉e҉r҉ O҉p҉e҉n҉!! ℝ𝕖𝕞𝕖𝕞𝕓𝕖𝕣 𝟘𝟡.𝟘𝟙 𝟙𝟚ℙ𝕄 #프롬 #셀로판 #Aliens #풀버전을기대해🥰 @tezodonlee @tjoffkoongstudios\nhttps://t.co/VjqjMvi0LY\n#프롬 #Fromm"
+	},
+	{
 		"created_at": "Fri Aug 28 10:46:26 +0000 2020",
 		"id": 1299297282328866800,
 		"id_str": "1299297282328866817",
