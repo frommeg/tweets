@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 09:54:35 +0000 2022",
+		"id": 1596804670189609000,
+		"id_str": "1596804670189608961",
+		"full_text": "【 🎬 】 #genie #지니 #지니비디오 \n[뮤비] 느린 여름의 노래 ─ 프롬 (Fromm) | 03:42 \n▶️ https://t.co/G2seXrhyhy \n \n#프롬 #Fromm \n#뮤직비디오 #MusicVideo \n#영상 #비디오 #Video",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "지니비디오",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "MusicVideo",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "Video",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G2seXrhyhy",
+					"expanded_url": "https://www.genie.co.kr/detail/mediaInfo?xvnm=232225",
+					"display_url": "genie.co.kr/detail/mediaIn…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 266,
+			"friends_count": 25,
+			"listed_count": 5,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 🎬 】 #genie #지니 #지니비디오 \n[뮤비] 느린 여름의 노래 ─ 프롬 (Fromm) | 03:42 \n▶️ https://t.co/G2seXrhyhy \n \n#프롬 #Fromm \n#뮤직비디오 #MusicVideo \n#영상 #비디오 #Video"
+	},
+	{
+		"created_at": "Sun Nov 27 09:28:44 +0000 2022",
+		"id": 1596798166963490800,
+		"id_str": "1596798166963490817",
+		"full_text": "【 🎬 】 #Melon #멜론 #멜론비디오 \n[MV]느린 여름의 노래 | 프롬 | 03:43 \n▶️ https://t.co/C46p3MrFFD \n \n#프롬 #Fromm \n#뮤직비디오 #MusicVideo \n#영상 #비디오 #Video https://t.co/sIxvNQ6OTx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "멜론비디오",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "MusicVideo",
+					"indices": [
+						102,
+						113
+					]
+				},
+				{
+					"text": "영상",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "Video",
+					"indices": [
+						124,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C46p3MrFFD",
+					"expanded_url": "https://www.melon.com/video/detail2.htm?mvId=50256593",
+					"display_url": "melon.com/video/detail2.…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1596798165562392600,
+					"id_str": "1596798165562392576",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Fij3eKxXgAAgNEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fij3eKxXgAAgNEj.jpg",
+					"url": "https://t.co/sIxvNQ6OTx",
+					"display_url": "pic.twitter.com/sIxvNQ6OTx",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1596798166963490817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596798165562392600,
+					"id_str": "1596798165562392576",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Fij3eKxXgAAgNEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fij3eKxXgAAgNEj.jpg",
+					"url": "https://t.co/sIxvNQ6OTx",
+					"display_url": "pic.twitter.com/sIxvNQ6OTx",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1596798166963490817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 266,
+			"friends_count": 25,
+			"listed_count": 5,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 🎬 】 #Melon #멜론 #멜론비디오 \n[MV]느린 여름의 노래 | 프롬 | 03:43 \n▶️ https://t.co/C46p3MrFFD \n \n#프롬 #Fromm \n#뮤직비디오 #MusicVideo \n#영상 #비디오 #Video https://t.co/sIxvNQ6OTx"
+	},
+	{
 		"created_at": "Fri Nov 25 10:03:39 +0000 2022",
 		"id": 1596082177493520400,
 		"id_str": "1596082177493520385",
