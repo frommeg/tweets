@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 09:34:10 +0000 2022",
+		"id": 1599698637977698300,
+		"id_str": "1599698637977698304",
+		"full_text": "【 📝 】 #genie #지니 #지니매거진 \n프롬 정규 3집 앨범 [Mood, Sunday] 앨범 M/V 및 아트웍 촬영 현장 | 2022.12.05  \n▶️ https://t.co/9EfFHJKObd \n \n#프롬 #Fromm \n#뮤직매거진 #MusicMagazine \n#매거진 #Magazine https://t.co/zd6b3aG4Dn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "프롬",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "Fromm",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "뮤직매거진",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "MusicMagazine",
+					"indices": [
+						135,
+						149
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "Magazine",
+					"indices": [
+						156,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9EfFHJKObd",
+					"expanded_url": "https://www.genie.co.kr/magazine/subMain?ctid=1&mgz_seq=12688",
+					"display_url": "genie.co.kr/magazine/subMa…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1599698636174147600,
+					"id_str": "1599698636174147584",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FjNFbxzWQAA-qlb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjNFbxzWQAA-qlb.jpg",
+					"url": "https://t.co/zd6b3aG4Dn",
+					"display_url": "pic.twitter.com/zd6b3aG4Dn",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1599698637977698304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599698636174147600,
+					"id_str": "1599698636174147584",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FjNFbxzWQAA-qlb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjNFbxzWQAA-qlb.jpg",
+					"url": "https://t.co/zd6b3aG4Dn",
+					"display_url": "pic.twitter.com/zd6b3aG4Dn",
+					"expanded_url": "https://twitter.com/Fromm_Fancafe/status/1599698637977698304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202738804,
+			"id_str": "2202738804",
+			"name": "프롬(Fromm) 공식팬카페",
+			"screen_name": "Fromm_Fancafe",
+			"location": "",
+			"description": "🎤 싱어송라이터 #프롬 #Fromm 팬카페",
+			"url": "https://t.co/mUr4gVk6So",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mUr4gVk6So",
+							"expanded_url": "http://cafe.daum.net/frommeg",
+							"display_url": "cafe.daum.net/frommeg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 266,
+			"friends_count": 25,
+			"listed_count": 5,
+			"created_at": "Tue Nov 19 08:38:40 +0000 2013",
+			"favourites_count": 2630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192311683152109568/MfVUtlJj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202738804/1573104234",
+			"profile_link_color": "865C74",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 📝 】 #genie #지니 #지니매거진 \n프롬 정규 3집 앨범 [Mood, Sunday] 앨범 M/V 및 아트웍 촬영 현장 | 2022.12.05  \n▶️ https://t.co/9EfFHJKObd \n \n#프롬 #Fromm \n#뮤직매거진 #MusicMagazine \n#매거진 #Magazine https://t.co/zd6b3aG4Dn"
+	},
+	{
 		"created_at": "Sun Dec 04 09:53:48 +0000 2022",
 		"id": 1599341188259225600,
 		"id_str": "1599341188259225600",
